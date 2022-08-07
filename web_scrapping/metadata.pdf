@@ -1,0 +1,1692 @@
+
+
+
+ 
+
+
+
+<!DOCTYPE html>
+<html>
+
+    <head>
+        
+       <link rel="preload" href="css/style.css" as="style"/>
+        <link rel="stylesheet" href="css/range.css" data-n-g=""/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="./js/jquery.min.js"></script>
+        <script src ="./js/jquery.js"></script>
+        <Script language="JavaScript" src="./js/jquery-ui.js"></script>
+        <link rel ="stylesheet" href="css/jquery-ui.css">
+       
+        <link rel="stylesheet" type="text/css" href="/css/site-examples.css">
+        <link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css">
+
+        <script type="text/javascript" language="javascript" src="js/jquery-1.12.4.js">
+        </script>
+        <script type="text/javascript" language="javascript" src="js/jquery.dataTables.min.js">
+        </script>
+        <script type="text/javascript" language="javascript" src="js/demo.js">
+        </script>
+        <script type="text/javascript" class="init">
+
+            $(document).ready(function() {
+                $('#example').DataTable({
+                    //  "scrollY": 300,
+                    "scrollX": true
+                });
+            });
+
+        </script>
+        <style type="text/css">
+            table {
+                border-collapse: collapse !important;
+                border-spacing: 0px !important;
+            }
+            table.altrowstable1 th {
+                background-color: #9fa7ff !important;
+                border: 1px #1e2ab7 solid !important;
+                font-size: 13px !important;
+                color: #000000 !important;
+                border-collapse: collapse !important;
+                border-spacing: 0px !important;
+                text-align: left !important;
+                padding: 5px 15px;
+                word-break: keep-all;
+                white-space: nowrap;
+            }
+
+            table.altrowstable1 td {
+                text-align: left;
+                border: 1px #1e2ab7 solid !important;
+                vertical-align: middle;
+                padding-left: 3px;
+                padding-right: 3px;
+                font-size: 13px;
+                font-family: verdana;
+                font-weight: normal;
+                height: 20px;
+                padding: 7px;
+                background: #e6e8ff;
+
+            }
+
+            input {
+                width: 90% !important;
+                padding: 3px !important; 
+            }
+            tr.payrad td {
+                text-align: left !important;
+            }
+            tr.payrad input[type="radio"] {
+                float: left;
+                text-align: left !important;
+                width: 19% !important;
+            }
+            input[type="radio"], input[type="checkbox"]
+            {
+                width: 30px !important;
+                float: left;
+            }
+
+            select {
+                border-radius: 0;
+                margin-bottom: 12px !important;
+                border: 1px solid #005396;
+                box-shadow: none;
+            }
+
+            .form-control{
+                display: block;
+                width: 100% !important;
+                height: 34px;
+                padding: 6px 12px;
+                font-size: 14px;
+                line-height: 1.42857143;
+                color: #555;
+            }
+            .btn
+            {
+                padding: 6px 12px !important;
+                width: auto !important;
+            }
+            .h3_text{
+                background: #1a9200;
+                font-size: 15px;
+                padding: 5px;
+                text-align: center;
+                color: #fff;
+                line-height: 26px;
+                box-shadow: 5px 5px 5px #ccc;
+            }
+            #example_wrapper {
+                width: 100% !important;
+                padding: 20px;
+            }
+            table.dataTable thead th, table.dataTable tbody td {
+                padding: 8px 10px;
+                border: 1px solid #ccc;
+                font-size: 13px;
+            }
+            .h3_text{
+                background: #1a9200;
+                font-size: 15px;
+                padding: 5px;
+                text-align: center;
+                color: #fff;
+                line-height: 26px;
+                box-shadow: 5px 5px 5px #ccc;
+            }
+        </style>
+    </head>
+</head>
+<body>
+   <div id="__next">
+            <div class="page-wraper">
+                <div class="page-content ">
+                    <div class="banner-two gradient banner-about" style="height:90px !important">
+                        <div class="container">
+                            <div class="banner-inner" style="padding-top: 0px;">
+                                <img class="img1 move-2" src="images/main-slider/slider2/pic3.png"/>
+                                <img class="img2 move-1" src="images/pattern/pattern8.png"/><img class="img3 move-2" src="images/pattern/pattern9.png"/>
+                            </div>
+                        </div>
+                    </div>
+        <div class="container">
+            <div class="" style="margin: 0px; margin-top: 10px;margin-bottom: 10px;">
+                <div  class="main_div" style="background-color:#fff;min-height:435px;margin-top: 36px;">
+                    </br>
+                    <h3 class="h3_text" style="width: 98%;  margin: 20px auto;">College wise Allotment</h3>
+                <form name="registerForm" method="post" action="/EAPCET/collegeWiseAllotedReport.xls;jsessionid=ew+jF4DvRGPL4VqhHwA4vqAJ">
+                    <input type="hidden" name="mode" value="getExcelData">
+
+                    
+                        
+
+                     
+                                <div style="text-align: right;padding-right: 24px;">
+                                    <a href="./collegeWiseAllotedReport.do?mode=getPdfData&course=&college=" ><img src="images/pdf.png" style="width: 30px"/></a>
+                                    <a href="./collegeWiseAllotedReport.xls?mode=getExcelData&course=&college=" ><img src="images/excel.png" style="width: 35px"/></a>
+                                </div>
+                                <table id="example" class="display nowrap" cellspacing="0" width="100%">
+                                    <thead>
+                                        <tr>
+                                            <th>S.NO</th>
+                                            <th>Hall Ticket</th>
+                                             <th>Rank</th>
+                                            <th>Applicant Name</th>
+                                            <th>Gender</th>
+                                            <th>Caste</th>
+                                            <th>Region</th>
+                                            <th>Alloted Category</th>
+                                            <!--<th>Round</th>-->
+                                            <th>Phase</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">1</td>
+                                                <td style="text-align: left;">50151010080</td>
+                                                <td style="text-align: left;">100478</td>
+                                                <td style="text-align: left;">MATEDDULA PAVITHRA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">2</td>
+                                                <td style="text-align: left;">50151020017</td>
+                                                <td style="text-align: left;">115424</td>
+                                                <td style="text-align: left;">CHITRA NARESH</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">3</td>
+                                                <td style="text-align: left;">50151030046</td>
+                                                <td style="text-align: left;">107606</td>
+                                                <td style="text-align: left;">MULAM SAI PRANEETH</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">4</td>
+                                                <td style="text-align: left;">50151040041</td>
+                                                <td style="text-align: left;">115323</td>
+                                                <td style="text-align: left;">GOWNI BHANDHAVI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">5</td>
+                                                <td style="text-align: left;">50151040109</td>
+                                                <td style="text-align: left;">123305</td>
+                                                <td style="text-align: left;">MANDALA YESWANTH KUMAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">6</td>
+                                                <td style="text-align: left;">50155010023</td>
+                                                <td style="text-align: left;">123471</td>
+                                                <td style="text-align: left;">PUTLURU  VYSHNAVI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">7</td>
+                                                <td style="text-align: left;">50653010105</td>
+                                                <td style="text-align: left;">73929</td>
+                                                <td style="text-align: left;">M SAINANDAN REDDY</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">ST_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">8</td>
+                                                <td style="text-align: left;">50351040108</td>
+                                                <td style="text-align: left;">125046</td>
+                                                <td style="text-align: left;">LEKI REDDY  HEMANTH REDDY</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">3</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">9</td>
+                                                <td style="text-align: left;">50554010071</td>
+                                                <td style="text-align: left;">126193</td>
+                                                <td style="text-align: left;">DUDDUKUNTA INDRASENA REDDY</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">3</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">10</td>
+                                                <td style="text-align: left;">50251010060</td>
+                                                <td style="text-align: left;">125524</td>
+                                                <td style="text-align: left;">BULA GONDA  SURYANARAYANA</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">11</td>
+                                                <td style="text-align: left;">50251030074</td>
+                                                <td style="text-align: left;">103995</td>
+                                                <td style="text-align: left;">KAKARLA LAHARI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">12</td>
+                                                <td style="text-align: left;">50251030078</td>
+                                                <td style="text-align: left;">95096</td>
+                                                <td style="text-align: left;">LAGGI CHETTY SAI SOBANA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">13</td>
+                                                <td style="text-align: left;">50251030099</td>
+                                                <td style="text-align: left;">126465</td>
+                                                <td style="text-align: left;">SHAIK MUHAMMED AFWAN</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_E</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_E_GIRLS_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">14</td>
+                                                <td style="text-align: left;">50251030102</td>
+                                                <td style="text-align: left;">87541</td>
+                                                <td style="text-align: left;">PUCHAKAYALA SREENATH NAIDU</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_PHH_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">15</td>
+                                                <td style="text-align: left;">50251030118</td>
+                                                <td style="text-align: left;">88024</td>
+                                                <td style="text-align: left;">GUDURU SHRISHA SEKHAR</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">NL</td>
+                                                <td style="text-align:left;">SC_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">16</td>
+                                                <td style="text-align: left;">50251040084</td>
+                                                <td style="text-align: left;">112041</td>
+                                                <td style="text-align: left;">K V INDRA REDDY</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">17</td>
+                                                <td style="text-align: left;">50251050057</td>
+                                                <td style="text-align: left;">119587</td>
+                                                <td style="text-align: left;">REDDYGARI RAJASHEKAR REDDY</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">18</td>
+                                                <td style="text-align: left;">50351040080</td>
+                                                <td style="text-align: left;">94358</td>
+                                                <td style="text-align: left;">MANNALA HEMANTH KUMAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_A_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">19</td>
+                                                <td style="text-align: left;">50753010064</td>
+                                                <td style="text-align: left;">96266</td>
+                                                <td style="text-align: left;">VASANTHAKUMAR GARI VINAY KUMAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">20</td>
+                                                <td style="text-align: left;">50351020017</td>
+                                                <td style="text-align: left;">108749</td>
+                                                <td style="text-align: left;">DAYYAM MAHALAKSHMI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">21</td>
+                                                <td style="text-align: left;">50351020020</td>
+                                                <td style="text-align: left;">79059</td>
+                                                <td style="text-align: left;">BEDADHALA AMRUTHA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">22</td>
+                                                <td style="text-align: left;">50351030005</td>
+                                                <td style="text-align: left;">79773</td>
+                                                <td style="text-align: left;">PATAN DILSHAD</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">23</td>
+                                                <td style="text-align: left;">50351030141</td>
+                                                <td style="text-align: left;">78624</td>
+                                                <td style="text-align: left;">BODEDDULA BHAVYA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">24</td>
+                                                <td style="text-align: left;">50351030209</td>
+                                                <td style="text-align: left;">124866</td>
+                                                <td style="text-align: left;">SARIBALA SRAVANI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">25</td>
+                                                <td style="text-align: left;">50351040006</td>
+                                                <td style="text-align: left;">108719</td>
+                                                <td style="text-align: left;">DONGALA VAISHNAVI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">26</td>
+                                                <td style="text-align: left;">51051030126</td>
+                                                <td style="text-align: left;">98979</td>
+                                                <td style="text-align: left;">ERABBI INDRA</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_A_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">27</td>
+                                                <td style="text-align: left;">50351040083</td>
+                                                <td style="text-align: left;">73047</td>
+                                                <td style="text-align: left;">NEELAM VANI SREE</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">28</td>
+                                                <td style="text-align: left;">50351040084</td>
+                                                <td style="text-align: left;">125001</td>
+                                                <td style="text-align: left;">DASARI SUNKARA VIDYASREE</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">29</td>
+                                                <td style="text-align: left;">50351020019</td>
+                                                <td style="text-align: left;">65599</td>
+                                                <td style="text-align: left;">BODAYYAGARI SIVA PRIYA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GIRLS_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">30</td>
+                                                <td style="text-align: left;">50353010028</td>
+                                                <td style="text-align: left;">124938</td>
+                                                <td style="text-align: left;">C H VANI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">31</td>
+                                                <td style="text-align: left;">50353010029</td>
+                                                <td style="text-align: left;">125012</td>
+                                                <td style="text-align: left;">S MANOJ SAI</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">SC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">32</td>
+                                                <td style="text-align: left;">50354010033</td>
+                                                <td style="text-align: left;">109659</td>
+                                                <td style="text-align: left;">KASTURI SREENIVASULU</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">33</td>
+                                                <td style="text-align: left;">50651030212</td>
+                                                <td style="text-align: left;">40483</td>
+                                                <td style="text-align: left;">PALAVAIE NAVEEN</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">SC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_D_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">34</td>
+                                                <td style="text-align: left;">50351030128</td>
+                                                <td style="text-align: left;">103691</td>
+                                                <td style="text-align: left;">GANDLAPARTHI THARUN</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">35</td>
+                                                <td style="text-align: left;">50451010064</td>
+                                                <td style="text-align: left;">123204</td>
+                                                <td style="text-align: left;">THELLAKULA RAVITEJA</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_A_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">36</td>
+                                                <td style="text-align: left;">50451020081</td>
+                                                <td style="text-align: left;">107926</td>
+                                                <td style="text-align: left;">NIJANAGIRI PRIYANKA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">37</td>
+                                                <td style="text-align: left;">50451020135</td>
+                                                <td style="text-align: left;">107967</td>
+                                                <td style="text-align: left;">BHOGIMI NARESH</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_A_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">38</td>
+                                                <td style="text-align: left;">50451030061</td>
+                                                <td style="text-align: left;">113501</td>
+                                                <td style="text-align: left;">NALLABOTHULA MAHESH</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_A_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">39</td>
+                                                <td style="text-align: left;">50452010033</td>
+                                                <td style="text-align: left;">123176</td>
+                                                <td style="text-align: left;">KURUBA NAVYASREE</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">40</td>
+                                                <td style="text-align: left;">50553010064</td>
+                                                <td style="text-align: left;">110710</td>
+                                                <td style="text-align: left;">R KANNESH</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_D_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">41</td>
+                                                <td style="text-align: left;">50351030152</td>
+                                                <td style="text-align: left;">111508</td>
+                                                <td style="text-align: left;">KOUJULA SAI NATH REDDY</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">42</td>
+                                                <td style="text-align: left;">50651030010</td>
+                                                <td style="text-align: left;">112332</td>
+                                                <td style="text-align: left;">KONTHAM JASWANTH KUMAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">43</td>
+                                                <td style="text-align: left;">51051040078</td>
+                                                <td style="text-align: left;">67688</td>
+                                                <td style="text-align: left;">KARI VENU</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">44</td>
+                                                <td style="text-align: left;">50551020056</td>
+                                                <td style="text-align: left;">118057</td>
+                                                <td style="text-align: left;">AKULA SIREESHA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">45</td>
+                                                <td style="text-align: left;">50551020067</td>
+                                                <td style="text-align: left;">78302</td>
+                                                <td style="text-align: left;">GUDIPATI VENNELA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">46</td>
+                                                <td style="text-align: left;">50551030066</td>
+                                                <td style="text-align: left;">101807</td>
+                                                <td style="text-align: left;">KETHIREDDY OMLATHA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">47</td>
+                                                <td style="text-align: left;">50551030195</td>
+                                                <td style="text-align: left;">118421</td>
+                                                <td style="text-align: left;">CHINTHAMEKALA DIVYA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_A_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">48</td>
+                                                <td style="text-align: left;">50552010030</td>
+                                                <td style="text-align: left;">125512</td>
+                                                <td style="text-align: left;">DUDEKULA BABAFAKRUDDIN</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">49</td>
+                                                <td style="text-align: left;">50751050064</td>
+                                                <td style="text-align: left;">68414</td>
+                                                <td style="text-align: left;">NETTEM SHIREESHA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">50</td>
+                                                <td style="text-align: left;">50851030145</td>
+                                                <td style="text-align: left;">121328</td>
+                                                <td style="text-align: left;">ELLURI GANDLA YOSHITHA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_C_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">51</td>
+                                                <td style="text-align: left;">51053010012</td>
+                                                <td style="text-align: left;">122174</td>
+                                                <td style="text-align: left;">THUMMA LAKSHMIKANTH GARI DINESH</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_D_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">52</td>
+                                                <td style="text-align: left;">50593010374</td>
+                                                <td style="text-align: left;">46909</td>
+                                                <td style="text-align: left;">PALAGIRI SINDHUJA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GIRLS_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">53</td>
+                                                <td style="text-align: left;">50851030216</td>
+                                                <td style="text-align: left;">123353</td>
+                                                <td style="text-align: left;">DUNNAPATI NAGARJUNA REDDY</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">ST_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">54</td>
+                                                <td style="text-align: left;">50651010047</td>
+                                                <td style="text-align: left;">106028</td>
+                                                <td style="text-align: left;">CHIRATHALA RENUKA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">55</td>
+                                                <td style="text-align: left;">50973010031</td>
+                                                <td style="text-align: left;">123477</td>
+                                                <td style="text-align: left;">BENIGERI URUKUNDA REDDY</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">ST_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">56</td>
+                                                <td style="text-align: left;">50652010108</td>
+                                                <td style="text-align: left;">99979</td>
+                                                <td style="text-align: left;">SANKEPALLI YASWANTH REDDY</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">57</td>
+                                                <td style="text-align: left;">50172020092</td>
+                                                <td style="text-align: left;">122445</td>
+                                                <td style="text-align: left;">CHIPPAGIRI NIKITHA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">58</td>
+                                                <td style="text-align: left;">50651020104</td>
+                                                <td style="text-align: left;">122466</td>
+                                                <td style="text-align: left;">BALAGONDA NANDINI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_C_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">59</td>
+                                                <td style="text-align: left;">50654010074</td>
+                                                <td style="text-align: left;">105267</td>
+                                                <td style="text-align: left;">KURUBA KUMAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">60</td>
+                                                <td style="text-align: left;">50454010055</td>
+                                                <td style="text-align: left;">123941</td>
+                                                <td style="text-align: left;">MANGALA CHAITHANYA</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_D_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">61</td>
+                                                <td style="text-align: left;">50453010053</td>
+                                                <td style="text-align: left;">123176</td>
+                                                <td style="text-align: left;">JINKA JAGADEESH</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_E_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">62</td>
+                                                <td style="text-align: left;">50751030077</td>
+                                                <td style="text-align: left;">116731</td>
+                                                <td style="text-align: left;">GADDAM TEJESWAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">63</td>
+                                                <td style="text-align: left;">50751040029</td>
+                                                <td style="text-align: left;">124404</td>
+                                                <td style="text-align: left;">BANDA INDU</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_A_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">64</td>
+                                                <td style="text-align: left;">50751050012</td>
+                                                <td style="text-align: left;">117211</td>
+                                                <td style="text-align: left;">TIRUVIDULA LAKSHMI SAI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">65</td>
+                                                <td style="text-align: left;">50751050093</td>
+                                                <td style="text-align: left;">103078</td>
+                                                <td style="text-align: left;">KAPPALA VINAY KUMAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">66</td>
+                                                <td style="text-align: left;">50751050129</td>
+                                                <td style="text-align: left;">103199</td>
+                                                <td style="text-align: left;">NIMMALA SURYA PRAKASH</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">67</td>
+                                                <td style="text-align: left;">50753010103</td>
+                                                <td style="text-align: left;">109962</td>
+                                                <td style="text-align: left;">VEPAMANI RAJANI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">68</td>
+                                                <td style="text-align: left;">50754010035</td>
+                                                <td style="text-align: left;">109167</td>
+                                                <td style="text-align: left;">GANGINEPALLI VISHNUVARDHAN REDDY</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">69</td>
+                                                <td style="text-align: left;">50251050015</td>
+                                                <td style="text-align: left;">119587</td>
+                                                <td style="text-align: left;">BILLE ANIL PRASAD</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_D_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">70</td>
+                                                <td style="text-align: left;">50551010013</td>
+                                                <td style="text-align: left;">118038</td>
+                                                <td style="text-align: left;">KUCHI SAI KEERTHANA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">71</td>
+                                                <td style="text-align: left;">50451040104</td>
+                                                <td style="text-align: left;">116253</td>
+                                                <td style="text-align: left;">ETIGAVINI MANOHAR GOWD</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">72</td>
+                                                <td style="text-align: left;">50251040049</td>
+                                                <td style="text-align: left;">110522</td>
+                                                <td style="text-align: left;">THALARI ANILKUMAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_D_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">73</td>
+                                                <td style="text-align: left;">50851010012</td>
+                                                <td style="text-align: left;">126471</td>
+                                                <td style="text-align: left;">GANGANA DEEPTHI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">74</td>
+                                                <td style="text-align: left;">50851030020</td>
+                                                <td style="text-align: left;">127478</td>
+                                                <td style="text-align: left;">BULLE CHINMAYEE SRUTHI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">75</td>
+                                                <td style="text-align: left;">50851030065</td>
+                                                <td style="text-align: left;">106011</td>
+                                                <td style="text-align: left;">NEELURU ANNAPURNA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">76</td>
+                                                <td style="text-align: left;">50851040092</td>
+                                                <td style="text-align: left;">119869</td>
+                                                <td style="text-align: left;">VENNAPUSA LAVANYA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">77</td>
+                                                <td style="text-align: left;">50351020097</td>
+                                                <td style="text-align: left;">110256</td>
+                                                <td style="text-align: left;">HATTE VENNELA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">78</td>
+                                                <td style="text-align: left;">50551010031</td>
+                                                <td style="text-align: left;">85994</td>
+                                                <td style="text-align: left;">KODEKANDLA NAVEEN KUMAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_A_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">3</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">79</td>
+                                                <td style="text-align: left;">50871020201</td>
+                                                <td style="text-align: left;">127249</td>
+                                                <td style="text-align: left;">GADWALA APARNA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">80</td>
+                                                <td style="text-align: left;">50451030086</td>
+                                                <td style="text-align: left;">108618</td>
+                                                <td style="text-align: left;">MADDURI POORNIMA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">81</td>
+                                                <td style="text-align: left;">51094010062</td>
+                                                <td style="text-align: left;">106586</td>
+                                                <td style="text-align: left;">NAKKALAPATI KOUSHIKA YASASWINI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">82</td>
+                                                <td style="text-align: left;">50254010046</td>
+                                                <td style="text-align: left;">103529</td>
+                                                <td style="text-align: left;">VADDE MADHU</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_A_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">83</td>
+                                                <td style="text-align: left;">50651020119</td>
+                                                <td style="text-align: left;">105862</td>
+                                                <td style="text-align: left;">TIPPINENI THRIMURTHY</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_D_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">84</td>
+                                                <td style="text-align: left;">50151020063</td>
+                                                <td style="text-align: left;">105864</td>
+                                                <td style="text-align: left;">GATTU VISHNUVARDHAN</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">85</td>
+                                                <td style="text-align: left;">50351040058</td>
+                                                <td style="text-align: left;">101661</td>
+                                                <td style="text-align: left;">ALIVIGONDA HINDU</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GIRLS_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">86</td>
+                                                <td style="text-align: left;">50951010048</td>
+                                                <td style="text-align: left;">77401</td>
+                                                <td style="text-align: left;">YALAGALAVANKA SAI KUMAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_CAP_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">87</td>
+                                                <td style="text-align: left;">50951020019</td>
+                                                <td style="text-align: left;">121018</td>
+                                                <td style="text-align: left;">GANGIREDDY GARI JOSHITHA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">88</td>
+                                                <td style="text-align: left;">50454010062</td>
+                                                <td style="text-align: left;">99977</td>
+                                                <td style="text-align: left;">NALLA NARASANNAGARI RAVI TEJA</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_A_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">89</td>
+                                                <td style="text-align: left;">50952010120</td>
+                                                <td style="text-align: left;">125613</td>
+                                                <td style="text-align: left;">YAPADINNE KALPANA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">90</td>
+                                                <td style="text-align: left;">50953010071</td>
+                                                <td style="text-align: left;">104124</td>
+                                                <td style="text-align: left;">N POOJA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_A_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">91</td>
+                                                <td style="text-align: left;">50954010058</td>
+                                                <td style="text-align: left;">122640</td>
+                                                <td style="text-align: left;">GUNDA NAVEEN KUMAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">92</td>
+                                                <td style="text-align: left;">50354010020</td>
+                                                <td style="text-align: left;">102458</td>
+                                                <td style="text-align: left;">THUMMALA SWATHI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">93</td>
+                                                <td style="text-align: left;">50351050097</td>
+                                                <td style="text-align: left;">101453</td>
+                                                <td style="text-align: left;">MADANAPALLI HARINATH REDDY</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">94</td>
+                                                <td style="text-align: left;">50251040054</td>
+                                                <td style="text-align: left;">85189</td>
+                                                <td style="text-align: left;">VADLA RAJESH</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_CAP_GEN_UR(0)</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">3</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">95</td>
+                                                <td style="text-align: left;">50251030075</td>
+                                                <td style="text-align: left;">94818</td>
+                                                <td style="text-align: left;">K LEKHYA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">96</td>
+                                                <td style="text-align: left;">51051010078</td>
+                                                <td style="text-align: left;">121345</td>
+                                                <td style="text-align: left;">KUNAMANENI DEEPIKA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">97</td>
+                                                <td style="text-align: left;">51051020029</td>
+                                                <td style="text-align: left;">74871</td>
+                                                <td style="text-align: left;">MORREDIGARI PALLAVI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">EWS_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">98</td>
+                                                <td style="text-align: left;">51051020034</td>
+                                                <td style="text-align: left;">81185</td>
+                                                <td style="text-align: left;">KUNNUTHALA HARI</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_CAP_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">99</td>
+                                                <td style="text-align: left;">51051020070</td>
+                                                <td style="text-align: left;">120375</td>
+                                                <td style="text-align: left;">EDIGA CHANDANA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">100</td>
+                                                <td style="text-align: left;">51051030027</td>
+                                                <td style="text-align: left;">114615</td>
+                                                <td style="text-align: left;">POTTA SHARATH KUMAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">1</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">101</td>
+                                                <td style="text-align: left;">50251030051</td>
+                                                <td style="text-align: left;">93025</td>
+                                                <td style="text-align: left;">THAMMINENI MANASA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">102</td>
+                                                <td style="text-align: left;">50851020157</td>
+                                                <td style="text-align: left;">91166</td>
+                                                <td style="text-align: left;">LAGISETTY BHAVANI</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_NCC_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">103</td>
+                                                <td style="text-align: left;">50954010053</td>
+                                                <td style="text-align: left;">90358</td>
+                                                <td style="text-align: left;">VUPPATTHULA VARASAIKIRAN</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_A_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">104</td>
+                                                <td style="text-align: left;">50951020151</td>
+                                                <td style="text-align: left;">73256</td>
+                                                <td style="text-align: left;">SHAIK ANWAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_E</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_D_GEN_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">105</td>
+                                                <td style="text-align: left;">50351030031</td>
+                                                <td style="text-align: left;">124792</td>
+                                                <td style="text-align: left;">BACHALA NAVEENKUMAR REDDY</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">ST_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">106</td>
+                                                <td style="text-align: left;">50351020053</td>
+                                                <td style="text-align: left;">124873</td>
+                                                <td style="text-align: left;">YANAMALA SABITHA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">SC_PHO_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">107</td>
+                                                <td style="text-align: left;">50551030050</td>
+                                                <td style="text-align: left;">126133</td>
+                                                <td style="text-align: left;">PANTHATI MEGHANA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">ST_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">108</td>
+                                                <td style="text-align: left;">50954010066</td>
+                                                <td style="text-align: left;">126944</td>
+                                                <td style="text-align: left;">RAYADURGAM JAYANTH KUMAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">ST_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">109</td>
+                                                <td style="text-align: left;">50251040095</td>
+                                                <td style="text-align: left;">127096</td>
+                                                <td style="text-align: left;">SODINAPALLI NARENDRA</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_D_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">110</td>
+                                                <td style="text-align: left;">50251020073</td>
+                                                <td style="text-align: left;">127174</td>
+                                                <td style="text-align: left;">CHINTHAKAYALA PRATHYUSHA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_A</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_A_GIRLS_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">111</td>
+                                                <td style="text-align: left;">50551020015</td>
+                                                <td style="text-align: left;">118586</td>
+                                                <td style="text-align: left;">BUDAGA YUGANDHAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">BC_B_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">3</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">112</td>
+                                                <td style="text-align: left;">51051040014</td>
+                                                <td style="text-align: left;">66979</td>
+                                                <td style="text-align: left;">POLIMERA DILEEP KUMAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_PHV_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">3</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">113</td>
+                                                <td style="text-align: left;">50764060004</td>
+                                                <td style="text-align: left;">117017</td>
+                                                <td style="text-align: left;">SOMARAJU SIVA SANKAR</td>     
+                                                <td style="text-align: left;">M</td>
+                                                <td style="text-align:left;">OC</td>
+                                                <td style="text-align: left;">AU</td>
+                                                <td style="text-align:left;">OC_GEN_SVU</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">3</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">114</td>
+                                                <td style="text-align: left;">51051040015</td>
+                                                <td style="text-align: left;">121584</td>
+                                                <td style="text-align: left;">GUNJARA DEEPTHIKA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_B</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_GIRLS_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">3</td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td style="text-align: center;">115</td>
+                                                <td style="text-align: left;">50553010101</td>
+                                                <td style="text-align: left;">28798</td>
+                                                <td style="text-align: left;">BHEEMARAJU GARI NAYANA</td>     
+                                                <td style="text-align: left;">F</td>
+                                                <td style="text-align:left;">BC_D</td>
+                                                <td style="text-align: left;">SVU</td>
+                                                <td style="text-align:left;">OC_GIRLS_UR</td>
+                                                <!--<td style="text-align:left;"></td>-->
+                                                <td style="text-align:left;">2</td>
+                                            </tr>
+                                        
+                                    </tbody>
+                                </table>
+                            
+                                
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>               

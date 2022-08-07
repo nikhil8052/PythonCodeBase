@@ -1,0 +1,5 @@
+
+
+1.  Query to calculate the year wise count 
+
+   SELECT month(student_users.timestamp) as month , count(*) as count FROM `student_users` GROUP by month(student_users.timestamp)

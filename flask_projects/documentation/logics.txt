@@ -1,0 +1,8 @@
+
+
+1.   We will be having the graph 2022 in which we will display every month count how many students comes 
+     in which month.
+
+2.   
+
+

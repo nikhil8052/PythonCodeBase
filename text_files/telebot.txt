@@ -1,0 +1,6 @@
+   How to send buttons with the name and the action dynamically 
+    button may be one or more 
+
+   1    create the button
+
+In this arr we will be having the button name and the action associated to the button 

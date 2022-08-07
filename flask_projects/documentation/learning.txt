@@ -1,0 +1,5 @@
+
+1. Plot Prameters to stylize the things.
+
+plt.plot(range(10), linestyle='--', marker='o', color='b', label='line with marker')
+plt.legend()

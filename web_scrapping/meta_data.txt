@@ -1,0 +1,13 @@
+./collegeWiseAllotedReport.do?mode=geCollgeList&programme=" + $('#programmeId').val()
+./collegeWiseAllotedReport.do?mode=geCollgeList&programme=ADTP
+
+
+Get branches of specific collage using code 
+https://eapcet-sche1.aptonline.in/EAPCET/collegeWiseAllotedReport.do?mode=geCollgeList&programme=ADTP
+
+
+get the PDF files of server 
+https://eapcet-sche1.aptonline.in/EAPCET/collegeWiseAllotedReport.do?mode=getExcelData&course=SVIT&college=ECE"
+./collegeWiseAllotedReport.xls?mode=getExcelData&course=SVIT&college=ECE"
+./collegeWiseAllotedReport.xls?mode=getExcelData&course=SVIT&college=EEE"
+./collegeWiseAllotedReport.xls?mode=getExcelData&course=VITAPUMT&college=EEE"
