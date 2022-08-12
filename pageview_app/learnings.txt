@@ -1,0 +1,5 @@
+$.get('myUrl', function(newDataArray) {
+    datatable.clear();
+    datatable.rows.add(newDataArray);
+    datatable.draw();
+});

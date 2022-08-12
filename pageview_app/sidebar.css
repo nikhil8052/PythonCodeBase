@@ -1,0 +1,33 @@
+#sidebarmain{
+    height: 100vh;
+    margin-top: 20px;
+    background-color: #FFFFFF;
+}
+
+#sidebarmain li {
+    display: block;
+    height: 50px;
+    /* background-color: #FFFFFF; */
+    border-bottom:1px solid #E2E2E2 ;
+    width: 100%;
+    margin: 0px;
+    border-radius: 5px ;
+    padding:10px;
+}
+#sidebarmain li a {
+   display: inline-block;
+   text-decoration: none;
+    text-align: center;
+    color: black;
+    font-size: 17px;
+    padding-left: 35px;
+}
+#sidebarmain li a :hover {
+    text-decoration: none;
+}
+.sidebar{
+    border-right: 3px solid #EBEBF0 ;
+    height: 100vh;
+    padding: 0px ;
+    
+}

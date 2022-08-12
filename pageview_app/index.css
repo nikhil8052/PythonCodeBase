@@ -1,0 +1,57 @@
+.col-md-6{
+    /* border: 2px solid red ; */
+}
+.dataTables_wrapper {
+
+  font-family:sans-serif ;
+  background-color: white;
+  font-size: 13px;
+  border: 2px solid #EBEBF0 ;
+  padding: 10px ;
+}
+#one{
+    width: inherit;
+}
+#secondpart::-webkit-scrollbar{
+    display: none;
+}
+.optnscontainer{
+    border: 2px solid #EBEBF0 ;
+    box-sizing: border-box;
+    padding: 10px ;
+
+}
+.card-title{
+      padding-left: 20px !important;
+      padding-top: 20px !important;
+}
+#secondpart{
+    margin-top: 0px !important;
+    border: 2px solid #C5C5C6 ;
+    background-color: #FFFFFF;
+    height: 100vh ;
+    overflow-y: scroll;
+}
+
+#secondpart::-webkit-scrollbar{
+    display: none;
+}
+
+td{
+    border-right: 1px solid #C5C5C6 ;
+}
+tr{
+    background-color: white;
+}
+
+/* sidebar code  */
+
+.mytbl{
+    margin-top: 20px ;
+    border: 1px solid #C5C5C6 ;
+}
+
+.srchbtnrow{
+  
+}
+
