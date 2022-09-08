@@ -1,0 +1,1974 @@
+[
+    {
+        "college_id": 1,
+        "overall_average": "18610.85714285714285714285714"
+    },
+    {
+        "college_id": 2,
+        "overall_average": "33913.09090909090909090909091"
+    },
+    {
+        "college_id": 3,
+        "overall_average": "28764"
+    },
+    {
+        "college_id": 4,
+        "overall_average": "21459"
+    },
+    {
+        "college_id": 5,
+        "overall_average": "37782.27272727272727272727273"
+    },
+    {
+        "college_id": 6,
+        "overall_average": "26302.92857142857142857142857"
+    },
+    {
+        "college_id": 7,
+        "overall_average": "31259.33333333333333333333333"
+    },
+    {
+        "college_id": 8,
+        "overall_average": "45917.72727272727272727272727"
+    },
+    {
+        "college_id": 9,
+        "overall_average": "72363.75"
+    },
+    {
+        "college_id": 10,
+        "overall_average": "23852.875"
+    },
+    {
+        "college_id": 11,
+        "overall_average": "15501.83333333333333333333333"
+    },
+    {
+        "college_id": 12,
+        "overall_average": "27895.83333333333333333333333"
+    },
+    {
+        "college_id": 13,
+        "overall_average": "51359.83333333333333333333333"
+    },
+    {
+        "college_id": 14,
+        "overall_average": "34729.2"
+    },
+    {
+        "college_id": 15,
+        "overall_average": "15508.5"
+    },
+    {
+        "college_id": 16,
+        "overall_average": "44698.8"
+    },
+    {
+        "college_id": 17,
+        "overall_average": "43194"
+    },
+    {
+        "college_id": 18,
+        "overall_average": "46622.3"
+    },
+    {
+        "college_id": 19,
+        "overall_average": "40987.55555555555555555555556"
+    },
+    {
+        "college_id": 20,
+        "overall_average": "48614.84615384615384615384615"
+    },
+    {
+        "college_id": 21,
+        "overall_average": "42718.36363636363636363636364"
+    },
+    {
+        "college_id": 22,
+        "overall_average": "38626.375"
+    },
+    {
+        "college_id": 23,
+        "overall_average": "53697"
+    },
+    {
+        "college_id": 24,
+        "overall_average": "30519.2"
+    },
+    {
+        "college_id": 25,
+        "overall_average": "44776"
+    },
+    {
+        "college_id": 26,
+        "overall_average": "56350.75"
+    },
+    {
+        "college_id": 27,
+        "overall_average": "76416.2"
+    },
+    {
+        "college_id": 28,
+        "overall_average": "78314.5"
+    },
+    {
+        "college_id": 29,
+        "overall_average": "48804"
+    },
+    {
+        "college_id": 30,
+        "overall_average": "47647.54545454545454545454545"
+    },
+    {
+        "college_id": 31,
+        "overall_average": "55420.9"
+    },
+    {
+        "college_id": 32,
+        "overall_average": "62016.66666666666666666666667"
+    },
+    {
+        "college_id": 33,
+        "overall_average": "65243"
+    },
+    {
+        "college_id": 34,
+        "overall_average": "50970.33333333333333333333333"
+    },
+    {
+        "college_id": 35,
+        "overall_average": "34036.5"
+    },
+    {
+        "college_id": 36,
+        "overall_average": "68362.2"
+    },
+    {
+        "college_id": 37,
+        "overall_average": "57288.88888888888888888888889"
+    },
+    {
+        "college_id": 38,
+        "overall_average": "33175"
+    },
+    {
+        "college_id": 39,
+        "overall_average": "79705.66666666666666666666667"
+    },
+    {
+        "college_id": 40,
+        "overall_average": "68630.625"
+    },
+    {
+        "college_id": 41,
+        "overall_average": "99027.66666666666666666666667"
+    },
+    {
+        "college_id": 42,
+        "overall_average": "41419"
+    },
+    {
+        "college_id": 43,
+        "overall_average": "61770.2"
+    },
+    {
+        "college_id": 44,
+        "overall_average": "82056.85714285714285714285714"
+    },
+    {
+        "college_id": 45,
+        "overall_average": "50243.5"
+    },
+    {
+        "college_id": 46,
+        "overall_average": "83471.5"
+    },
+    {
+        "college_id": 47,
+        "overall_average": "65024.07692307692307692307692"
+    },
+    {
+        "college_id": 48,
+        "overall_average": "82323.83333333333333333333333"
+    },
+    {
+        "college_id": 49,
+        "overall_average": "54699.18181818181818181818182"
+    },
+    {
+        "college_id": 50,
+        "overall_average": "79913.125"
+    },
+    {
+        "college_id": 51,
+        "overall_average": "70895.1"
+    },
+    {
+        "college_id": 52,
+        "overall_average": "66910.33333333333333333333333"
+    },
+    {
+        "college_id": 53,
+        "overall_average": "80720.75"
+    },
+    {
+        "college_id": 54,
+        "overall_average": "65096.28571428571428571428571"
+    },
+    {
+        "college_id": 55,
+        "overall_average": "63288"
+    },
+    {
+        "college_id": 56,
+        "overall_average": "83068.2"
+    },
+    {
+        "college_id": 57,
+        "overall_average": "85609.4"
+    },
+    {
+        "college_id": 58,
+        "overall_average": "74266.8"
+    },
+    {
+        "college_id": 59,
+        "overall_average": "68857.7"
+    },
+    {
+        "college_id": 60,
+        "overall_average": "59078.57142857142857142857143"
+    },
+    {
+        "college_id": 61,
+        "overall_average": "60066"
+    },
+    {
+        "college_id": 62,
+        "overall_average": "72393.875"
+    },
+    {
+        "college_id": 63,
+        "overall_average": "44893"
+    },
+    {
+        "college_id": 64,
+        "overall_average": "72455.5"
+    },
+    {
+        "college_id": 65,
+        "overall_average": "84994.375"
+    },
+    {
+        "college_id": 66,
+        "overall_average": "93837.2"
+    },
+    {
+        "college_id": 67,
+        "overall_average": "82614.16666666666666666666667"
+    },
+    {
+        "college_id": 68,
+        "overall_average": "78814.5"
+    },
+    {
+        "college_id": 69,
+        "overall_average": "79970.83333333333333333333333"
+    },
+    {
+        "college_id": 70,
+        "overall_average": "91604.25"
+    },
+    {
+        "college_id": 71,
+        "overall_average": "77853.7"
+    },
+    {
+        "college_id": 72,
+        "overall_average": "73525"
+    },
+    {
+        "college_id": 73,
+        "overall_average": "89658.75"
+    },
+    {
+        "college_id": 74,
+        "overall_average": "86497.5"
+    },
+    {
+        "college_id": 75,
+        "overall_average": "58970"
+    },
+    {
+        "college_id": 76,
+        "overall_average": "80947"
+    },
+    {
+        "college_id": 77,
+        "overall_average": "85802"
+    },
+    {
+        "college_id": 78,
+        "overall_average": "84957.25"
+    },
+    {
+        "college_id": 79,
+        "overall_average": "68482.5"
+    },
+    {
+        "college_id": 80,
+        "overall_average": "84484.42857142857142857142857"
+    },
+    {
+        "college_id": 81,
+        "overall_average": "73169.8"
+    },
+    {
+        "college_id": 82,
+        "overall_average": "81198.16666666666666666666667"
+    },
+    {
+        "college_id": 83,
+        "overall_average": "84802.6"
+    },
+    {
+        "college_id": 84,
+        "overall_average": "84287.83333333333333333333333"
+    },
+    {
+        "college_id": 85,
+        "overall_average": "72884.2"
+    },
+    {
+        "college_id": 86,
+        "overall_average": "82456.125"
+    },
+    {
+        "college_id": 87,
+        "overall_average": "68021.66666666666666666666667"
+    },
+    {
+        "college_id": 88,
+        "overall_average": "65600"
+    },
+    {
+        "college_id": 89,
+        "overall_average": "83830.75"
+    },
+    {
+        "college_id": 90,
+        "overall_average": "94615.5"
+    },
+    {
+        "college_id": 91,
+        "overall_average": "77681.28571428571428571428571"
+    },
+    {
+        "college_id": 92,
+        "overall_average": "69515.44444444444444444444444"
+    },
+    {
+        "college_id": 93,
+        "overall_average": "80977.33333333333333333333333"
+    },
+    {
+        "college_id": 94,
+        "overall_average": "82598.42857142857142857142857"
+    },
+    {
+        "college_id": 95,
+        "overall_average": "75852.5"
+    },
+    {
+        "college_id": 96,
+        "overall_average": "94317"
+    },
+    {
+        "college_id": 97,
+        "overall_average": "73912.83333333333333333333333"
+    },
+    {
+        "college_id": 98,
+        "overall_average": "85175.6"
+    },
+    {
+        "college_id": 99,
+        "overall_average": "74611"
+    },
+    {
+        "college_id": 100,
+        "overall_average": "76072.5"
+    },
+    {
+        "college_id": 101,
+        "overall_average": "86915.33333333333333333333333"
+    },
+    {
+        "college_id": 102,
+        "overall_average": "88247.5"
+    },
+    {
+        "college_id": 103,
+        "overall_average": "70978.75"
+    },
+    {
+        "college_id": 104,
+        "overall_average": "78353.71428571428571428571429"
+    },
+    {
+        "college_id": 105,
+        "overall_average": "83462.14285714285714285714286"
+    },
+    {
+        "college_id": 106,
+        "overall_average": "82400.2"
+    },
+    {
+        "college_id": 107,
+        "overall_average": "70869"
+    },
+    {
+        "college_id": 108,
+        "overall_average": "85375.75"
+    },
+    {
+        "college_id": 109,
+        "overall_average": "73287.25"
+    },
+    {
+        "college_id": 110,
+        "overall_average": "88852.66666666666666666666667"
+    },
+    {
+        "college_id": 111,
+        "overall_average": "90309.9"
+    },
+    {
+        "college_id": 112,
+        "overall_average": "79839.33333333333333333333333"
+    },
+    {
+        "college_id": 113,
+        "overall_average": "95116.83333333333333333333333"
+    },
+    {
+        "college_id": 114,
+        "overall_average": "87107.83333333333333333333333"
+    },
+    {
+        "college_id": 115,
+        "overall_average": "77989.83333333333333333333333"
+    },
+    {
+        "college_id": 116,
+        "overall_average": "83370"
+    },
+    {
+        "college_id": 117,
+        "overall_average": "62839"
+    },
+    {
+        "college_id": 118,
+        "overall_average": "86638.8"
+    },
+    {
+        "college_id": 119,
+        "overall_average": "80496"
+    },
+    {
+        "college_id": 120,
+        "overall_average": "76495.28571428571428571428571"
+    },
+    {
+        "college_id": 121,
+        "overall_average": "73214"
+    },
+    {
+        "college_id": 122,
+        "overall_average": "94620.4"
+    },
+    {
+        "college_id": 123,
+        "overall_average": "76081.4"
+    },
+    {
+        "college_id": 124,
+        "overall_average": "89004.11111111111111111111111"
+    },
+    {
+        "college_id": 125,
+        "overall_average": "79487.8"
+    },
+    {
+        "college_id": 126,
+        "overall_average": "84666.11111111111111111111111"
+    },
+    {
+        "college_id": 127,
+        "overall_average": "88269.57142857142857142857143"
+    },
+    {
+        "college_id": 128,
+        "overall_average": "78878.33333333333333333333333"
+    },
+    {
+        "college_id": 129,
+        "overall_average": "74429"
+    },
+    {
+        "college_id": 130,
+        "overall_average": "84656.25"
+    },
+    {
+        "college_id": 132,
+        "overall_average": "86976.66666666666666666666667"
+    },
+    {
+        "college_id": 133,
+        "overall_average": "85797.25"
+    },
+    {
+        "college_id": 134,
+        "overall_average": "77157.33333333333333333333333"
+    },
+    {
+        "college_id": 136,
+        "overall_average": "83967.33333333333333333333333"
+    },
+    {
+        "college_id": 137,
+        "overall_average": "94583.28571428571428571428571"
+    },
+    {
+        "college_id": 138,
+        "overall_average": "77978.83333333333333333333333"
+    },
+    {
+        "college_id": 139,
+        "overall_average": "80485.25"
+    },
+    {
+        "college_id": 140,
+        "overall_average": "80957.6"
+    },
+    {
+        "college_id": 141,
+        "overall_average": "93884.22222222222222222222222"
+    },
+    {
+        "college_id": 142,
+        "overall_average": "83497"
+    },
+    {
+        "college_id": 143,
+        "overall_average": "84338"
+    },
+    {
+        "college_id": 144,
+        "overall_average": "98269.25"
+    },
+    {
+        "college_id": 145,
+        "overall_average": "93924.25"
+    },
+    {
+        "college_id": 146,
+        "overall_average": "57967"
+    },
+    {
+        "college_id": 148,
+        "overall_average": "84988.4"
+    },
+    {
+        "college_id": 149,
+        "overall_average": "110576.25"
+    },
+    {
+        "college_id": 150,
+        "overall_average": "88740.71428571428571428571429"
+    },
+    {
+        "college_id": 151,
+        "overall_average": "96367.28571428571428571428571"
+    },
+    {
+        "college_id": 152,
+        "overall_average": "80340.7"
+    },
+    {
+        "college_id": 153,
+        "overall_average": "91162.25"
+    },
+    {
+        "college_id": 154,
+        "overall_average": "88216"
+    },
+    {
+        "college_id": 155,
+        "overall_average": "92082.4"
+    },
+    {
+        "college_id": 157,
+        "overall_average": "96842.16666666666666666666667"
+    },
+    {
+        "college_id": 158,
+        "overall_average": "67965"
+    },
+    {
+        "college_id": 159,
+        "overall_average": "93669.33333333333333333333333"
+    },
+    {
+        "college_id": 160,
+        "overall_average": "92660.2"
+    },
+    {
+        "college_id": 161,
+        "overall_average": "77687"
+    },
+    {
+        "college_id": 162,
+        "overall_average": "80002.33333333333333333333333"
+    },
+    {
+        "college_id": 163,
+        "overall_average": "86065.25"
+    },
+    {
+        "college_id": 165,
+        "overall_average": "66490"
+    },
+    {
+        "college_id": 166,
+        "overall_average": "82925.5"
+    },
+    {
+        "college_id": 168,
+        "overall_average": "87014"
+    },
+    {
+        "college_id": 169,
+        "overall_average": "92561.8"
+    },
+    {
+        "college_id": 171,
+        "overall_average": "91416.33333333333333333333333"
+    },
+    {
+        "college_id": 172,
+        "overall_average": "107437"
+    },
+    {
+        "college_id": 173,
+        "overall_average": "118290.8333333333333333333333"
+    },
+    {
+        "college_id": 175,
+        "overall_average": "84550.2"
+    },
+    {
+        "college_id": 177,
+        "overall_average": "88731.33333333333333333333333"
+    },
+    {
+        "college_id": 178,
+        "overall_average": "82993.5"
+    },
+    {
+        "college_id": 179,
+        "overall_average": "88513.25"
+    },
+    {
+        "college_id": 180,
+        "overall_average": "98837.25"
+    },
+    {
+        "college_id": 182,
+        "overall_average": "87509.33333333333333333333333"
+    },
+    {
+        "college_id": 183,
+        "overall_average": "89931.5"
+    },
+    {
+        "college_id": 184,
+        "overall_average": "91100.6"
+    },
+    {
+        "college_id": 185,
+        "overall_average": "56861"
+    },
+    {
+        "college_id": 186,
+        "overall_average": "90477.66666666666666666666667"
+    },
+    {
+        "college_id": 189,
+        "overall_average": "95214.5"
+    },
+    {
+        "college_id": 190,
+        "overall_average": "92390"
+    },
+    {
+        "college_id": 191,
+        "overall_average": "100495.5"
+    },
+    {
+        "college_id": 194,
+        "overall_average": "75630"
+    },
+    {
+        "college_id": 195,
+        "overall_average": "118055"
+    },
+    {
+        "college_id": 196,
+        "overall_average": "55589"
+    },
+    {
+        "college_id": 197,
+        "overall_average": "90939"
+    },
+    {
+        "college_id": 199,
+        "overall_average": "62977"
+    },
+    {
+        "college_id": 200,
+        "overall_average": "98144"
+    },
+    {
+        "college_id": 207,
+        "overall_average": "83091"
+    },
+    {
+        "college_id": 213,
+        "overall_average": "92469"
+    },
+    {
+        "college_id": 218,
+        "overall_average": "93857"
+    },
+    {
+        "college_id": 220,
+        "overall_average": "97335"
+    },
+    {
+        "college_id": 221,
+        "overall_average": "108015"
+    },
+    {
+        "college_id": 222,
+        "overall_average": "98469"
+    },
+    {
+        "college_id": 223,
+        "overall_average": "112422"
+    },
+    {
+        "college_id": 226,
+        "overall_average": "103387"
+    },
+    {
+        "college_id": 230,
+        "overall_average": "116879"
+    },
+    {
+        "college_id": 235,
+        "overall_average": "118314"
+    },
+    {
+        "college_id": 237,
+        "overall_average": "55756.42857142857142857142857"
+    },
+    {
+        "college_id": 241,
+        "overall_average": "102127.5"
+    },
+    {
+        "college_id": 242,
+        "overall_average": "83292.71428571428571428571429"
+    },
+    {
+        "college_id": 243,
+        "overall_average": "79784.41666666666666666666667"
+    },
+    {
+        "college_id": 246,
+        "overall_average": "76319.05263157894736842105263"
+    },
+    {
+        "college_id": 247,
+        "overall_average": "114859.6"
+    },
+    {
+        "college_id": 248,
+        "overall_average": "71901.6"
+    },
+    {
+        "college_id": 250,
+        "overall_average": "95131.84615384615384615384615"
+    },
+    {
+        "college_id": 251,
+        "overall_average": "96788.875"
+    },
+    {
+        "college_id": 252,
+        "overall_average": "87012.08333333333333333333333"
+    },
+    {
+        "college_id": 253,
+        "overall_average": "104519.5"
+    },
+    {
+        "college_id": 254,
+        "overall_average": "87177.15"
+    },
+    {
+        "college_id": 255,
+        "overall_average": "74764.85714285714285714285714"
+    },
+    {
+        "college_id": 257,
+        "overall_average": "92018"
+    },
+    {
+        "college_id": 258,
+        "overall_average": "96891.55555555555555555555556"
+    },
+    {
+        "college_id": 259,
+        "overall_average": "94612.5"
+    },
+    {
+        "college_id": 261,
+        "overall_average": "10684"
+    },
+    {
+        "college_id": 263,
+        "overall_average": "102942.2"
+    },
+    {
+        "college_id": 264,
+        "overall_average": "97446.2"
+    },
+    {
+        "college_id": 265,
+        "overall_average": "97191.83333333333333333333333"
+    },
+    {
+        "college_id": 266,
+        "overall_average": "106417.0909090909090909090909"
+    },
+    {
+        "college_id": 267,
+        "overall_average": "106807.6666666666666666666667"
+    },
+    {
+        "college_id": 268,
+        "overall_average": "108889.6666666666666666666667"
+    },
+    {
+        "college_id": 269,
+        "overall_average": "55898.82352941176470588235294"
+    },
+    {
+        "college_id": 270,
+        "overall_average": "100698.75"
+    },
+    {
+        "college_id": 271,
+        "overall_average": "102933.125"
+    },
+    {
+        "college_id": 273,
+        "overall_average": "87926.2"
+    },
+    {
+        "college_id": 274,
+        "overall_average": "97289.81818181818181818181818"
+    },
+    {
+        "college_id": 276,
+        "overall_average": "70974"
+    },
+    {
+        "college_id": 277,
+        "overall_average": "104521"
+    },
+    {
+        "college_id": 278,
+        "overall_average": "109831.7857142857142857142857"
+    },
+    {
+        "college_id": 279,
+        "overall_average": "56561.6"
+    },
+    {
+        "college_id": 280,
+        "overall_average": "125707"
+    },
+    {
+        "college_id": 283,
+        "overall_average": "99588.5"
+    },
+    {
+        "college_id": 284,
+        "overall_average": "69725.66666666666666666666667"
+    },
+    {
+        "college_id": 285,
+        "overall_average": "73527"
+    },
+    {
+        "college_id": 286,
+        "overall_average": "107135.2222222222222222222222"
+    },
+    {
+        "college_id": 287,
+        "overall_average": "88739.53333333333333333333333"
+    },
+    {
+        "college_id": 288,
+        "overall_average": "123592"
+    },
+    {
+        "college_id": 289,
+        "overall_average": "99819.28571428571428571428571"
+    },
+    {
+        "college_id": 290,
+        "overall_average": "102200.5"
+    },
+    {
+        "college_id": 291,
+        "overall_average": "109894.0769230769230769230769"
+    },
+    {
+        "college_id": 292,
+        "overall_average": "99812.1"
+    },
+    {
+        "college_id": 293,
+        "overall_average": "102999"
+    },
+    {
+        "college_id": 295,
+        "overall_average": "50211.9"
+    },
+    {
+        "college_id": 297,
+        "overall_average": "93278"
+    },
+    {
+        "college_id": 298,
+        "overall_average": "89631.9375"
+    },
+    {
+        "college_id": 299,
+        "overall_average": "67728.8125"
+    },
+    {
+        "college_id": 300,
+        "overall_average": "108400.8571428571428571428571"
+    },
+    {
+        "college_id": 302,
+        "overall_average": "85506.55555555555555555555556"
+    },
+    {
+        "college_id": 303,
+        "overall_average": "96733.27272727272727272727273"
+    },
+    {
+        "college_id": 304,
+        "overall_average": "105335"
+    },
+    {
+        "college_id": 305,
+        "overall_average": "109179.25"
+    },
+    {
+        "college_id": 306,
+        "overall_average": "106929"
+    },
+    {
+        "college_id": 307,
+        "overall_average": "110479"
+    },
+    {
+        "college_id": 308,
+        "overall_average": "94840.33333333333333333333333"
+    },
+    {
+        "college_id": 309,
+        "overall_average": "99437.38461538461538461538462"
+    },
+    {
+        "college_id": 310,
+        "overall_average": "105426"
+    },
+    {
+        "college_id": 311,
+        "overall_average": "82176.14285714285714285714286"
+    },
+    {
+        "college_id": 312,
+        "overall_average": "83941"
+    },
+    {
+        "college_id": 313,
+        "overall_average": "104261.8"
+    },
+    {
+        "college_id": 314,
+        "overall_average": "107148.3"
+    },
+    {
+        "college_id": 315,
+        "overall_average": "107363"
+    },
+    {
+        "college_id": 316,
+        "overall_average": "111901.7272727272727272727273"
+    },
+    {
+        "college_id": 317,
+        "overall_average": "106777.3333333333333333333333"
+    },
+    {
+        "college_id": 318,
+        "overall_average": "46242.94736842105263157894737"
+    },
+    {
+        "college_id": 320,
+        "overall_average": "116788"
+    },
+    {
+        "college_id": 321,
+        "overall_average": "86528"
+    },
+    {
+        "college_id": 322,
+        "overall_average": "109845.5"
+    },
+    {
+        "college_id": 323,
+        "overall_average": "93416.75"
+    },
+    {
+        "college_id": 324,
+        "overall_average": "103292.2222222222222222222222"
+    },
+    {
+        "college_id": 325,
+        "overall_average": "86362"
+    },
+    {
+        "college_id": 327,
+        "overall_average": "69916.18181818181818181818182"
+    },
+    {
+        "college_id": 328,
+        "overall_average": "71929.375"
+    },
+    {
+        "college_id": 329,
+        "overall_average": "93522"
+    },
+    {
+        "college_id": 331,
+        "overall_average": "99411.42857142857142857142857"
+    },
+    {
+        "college_id": 332,
+        "overall_average": "46750.52380952380952380952381"
+    },
+    {
+        "college_id": 333,
+        "overall_average": "80816.66666666666666666666667"
+    },
+    {
+        "college_id": 334,
+        "overall_average": "97391.83333333333333333333333"
+    },
+    {
+        "college_id": 335,
+        "overall_average": "89036.33333333333333333333333"
+    },
+    {
+        "college_id": 336,
+        "overall_average": "102820.8333333333333333333333"
+    },
+    {
+        "college_id": 337,
+        "overall_average": "60479.47058823529411764705882"
+    },
+    {
+        "college_id": 338,
+        "overall_average": "100228"
+    },
+    {
+        "college_id": 339,
+        "overall_average": "71097"
+    },
+    {
+        "college_id": 340,
+        "overall_average": "87694"
+    },
+    {
+        "college_id": 341,
+        "overall_average": "58660.17647058823529411764706"
+    },
+    {
+        "college_id": 342,
+        "overall_average": "100484.7777777777777777777778"
+    },
+    {
+        "college_id": 343,
+        "overall_average": "84643.28571428571428571428571"
+    },
+    {
+        "college_id": 344,
+        "overall_average": "100531.8571428571428571428571"
+    },
+    {
+        "college_id": 345,
+        "overall_average": "103029.3636363636363636363636"
+    },
+    {
+        "college_id": 346,
+        "overall_average": "78883.35294117647058823529412"
+    },
+    {
+        "college_id": 348,
+        "overall_average": "88150.28571428571428571428571"
+    },
+    {
+        "college_id": 349,
+        "overall_average": "99864"
+    },
+    {
+        "college_id": 350,
+        "overall_average": "58612.08333333333333333333333"
+    },
+    {
+        "college_id": 351,
+        "overall_average": "88038.25"
+    },
+    {
+        "college_id": 352,
+        "overall_average": "106566.6363636363636363636364"
+    },
+    {
+        "college_id": 353,
+        "overall_average": "107145.75"
+    },
+    {
+        "college_id": 354,
+        "overall_average": "122888"
+    },
+    {
+        "college_id": 355,
+        "overall_average": "88873.25"
+    },
+    {
+        "college_id": 356,
+        "overall_average": "100399.8"
+    },
+    {
+        "college_id": 357,
+        "overall_average": "99252"
+    },
+    {
+        "college_id": 358,
+        "overall_average": "91640.76923076923076923076923"
+    },
+    {
+        "college_id": 359,
+        "overall_average": "112049.3333333333333333333333"
+    },
+    {
+        "college_id": 360,
+        "overall_average": "109157.4"
+    },
+    {
+        "college_id": 361,
+        "overall_average": "102943.1818181818181818181818"
+    },
+    {
+        "college_id": 363,
+        "overall_average": "85128"
+    },
+    {
+        "college_id": 364,
+        "overall_average": "99397.5"
+    },
+    {
+        "college_id": 365,
+        "overall_average": "43249.86666666666666666666667"
+    },
+    {
+        "college_id": 366,
+        "overall_average": "102812.5"
+    },
+    {
+        "college_id": 367,
+        "overall_average": "97201"
+    },
+    {
+        "college_id": 368,
+        "overall_average": "107365"
+    },
+    {
+        "college_id": 369,
+        "overall_average": "102421.625"
+    },
+    {
+        "college_id": 370,
+        "overall_average": "91442"
+    },
+    {
+        "college_id": 371,
+        "overall_average": "103150"
+    },
+    {
+        "college_id": 372,
+        "overall_average": "99109.33333333333333333333333"
+    },
+    {
+        "college_id": 373,
+        "overall_average": "117557.875"
+    },
+    {
+        "college_id": 374,
+        "overall_average": "102272.5714285714285714285714"
+    },
+    {
+        "college_id": 375,
+        "overall_average": "89231.78947368421052631578947"
+    },
+    {
+        "college_id": 376,
+        "overall_average": "102906.8571428571428571428571"
+    },
+    {
+        "college_id": 377,
+        "overall_average": "89109.6"
+    },
+    {
+        "college_id": 379,
+        "overall_average": "101174.6666666666666666666667"
+    },
+    {
+        "college_id": 380,
+        "overall_average": "99827.30769230769230769230769"
+    },
+    {
+        "college_id": 381,
+        "overall_average": "84558"
+    },
+    {
+        "college_id": 382,
+        "overall_average": "113741"
+    },
+    {
+        "college_id": 383,
+        "overall_average": "105631"
+    },
+    {
+        "college_id": 385,
+        "overall_average": "64855.38461538461538461538462"
+    },
+    {
+        "college_id": 386,
+        "overall_average": "80222.16666666666666666666667"
+    },
+    {
+        "college_id": 387,
+        "overall_average": "47153.4375"
+    },
+    {
+        "college_id": 388,
+        "overall_average": "100975.6"
+    },
+    {
+        "college_id": 390,
+        "overall_average": "104540.6363636363636363636364"
+    },
+    {
+        "college_id": 392,
+        "overall_average": "39845.05555555555555555555556"
+    },
+    {
+        "college_id": 393,
+        "overall_average": "93046.33333333333333333333333"
+    },
+    {
+        "college_id": 394,
+        "overall_average": "17542.20833333333333333333333"
+    },
+    {
+        "college_id": 395,
+        "overall_average": "36834.33333333333333333333333"
+    },
+    {
+        "college_id": 398,
+        "overall_average": "43471.9"
+    },
+    {
+        "college_id": 399,
+        "overall_average": "106315.2"
+    },
+    {
+        "college_id": 400,
+        "overall_average": "102003.6"
+    },
+    {
+        "college_id": 401,
+        "overall_average": "99878.66666666666666666666667"
+    },
+    {
+        "college_id": 402,
+        "overall_average": "93401.58333333333333333333333"
+    },
+    {
+        "college_id": 403,
+        "overall_average": "88719.125"
+    },
+    {
+        "college_id": 404,
+        "overall_average": "99245.88888888888888888888889"
+    },
+    {
+        "college_id": 405,
+        "overall_average": "30146.7"
+    },
+    {
+        "college_id": 406,
+        "overall_average": "63786.125"
+    },
+    {
+        "college_id": 407,
+        "overall_average": "47301.9"
+    },
+    {
+        "college_id": 408,
+        "overall_average": "78370.71428571428571428571429"
+    },
+    {
+        "college_id": 409,
+        "overall_average": "58410.72222222222222222222222"
+    },
+    {
+        "college_id": 411,
+        "overall_average": "62719.16666666666666666666667"
+    },
+    {
+        "college_id": 412,
+        "overall_average": "103579.4"
+    },
+    {
+        "college_id": 413,
+        "overall_average": "95996.55555555555555555555556"
+    },
+    {
+        "college_id": 415,
+        "overall_average": "67779.66666666666666666666667"
+    },
+    {
+        "college_id": 416,
+        "overall_average": "68702"
+    },
+    {
+        "college_id": 417,
+        "overall_average": "55531.53333333333333333333333"
+    },
+    {
+        "college_id": 418,
+        "overall_average": "117340.75"
+    },
+    {
+        "college_id": 419,
+        "overall_average": "98909.90909090909090909090909"
+    },
+    {
+        "college_id": 420,
+        "overall_average": "104652.6"
+    },
+    {
+        "college_id": 421,
+        "overall_average": "104435.5833333333333333333333"
+    },
+    {
+        "college_id": 422,
+        "overall_average": "96859"
+    },
+    {
+        "college_id": 423,
+        "overall_average": "96001.33333333333333333333333"
+    },
+    {
+        "college_id": 424,
+        "overall_average": "102572"
+    },
+    {
+        "college_id": 426,
+        "overall_average": "101727"
+    },
+    {
+        "college_id": 427,
+        "overall_average": "22985.61538461538461538461538"
+    },
+    {
+        "college_id": 428,
+        "overall_average": "70179.41666666666666666666667"
+    },
+    {
+        "college_id": 430,
+        "overall_average": "95867"
+    },
+    {
+        "college_id": 431,
+        "overall_average": "50067.5"
+    },
+    {
+        "college_id": 432,
+        "overall_average": "93836.5"
+    },
+    {
+        "college_id": 433,
+        "overall_average": "71864"
+    },
+    {
+        "college_id": 435,
+        "overall_average": "103614"
+    },
+    {
+        "college_id": 436,
+        "overall_average": "94262.4"
+    },
+    {
+        "college_id": 437,
+        "overall_average": "74592.84615384615384615384615"
+    },
+    {
+        "college_id": 439,
+        "overall_average": "103607.1"
+    },
+    {
+        "college_id": 440,
+        "overall_average": "99930.4"
+    },
+    {
+        "college_id": 441,
+        "overall_average": "113588.1"
+    },
+    {
+        "college_id": 442,
+        "overall_average": "108843"
+    },
+    {
+        "college_id": 444,
+        "overall_average": "88105.5"
+    },
+    {
+        "college_id": 445,
+        "overall_average": "77228.94117647058823529411765"
+    },
+    {
+        "college_id": 447,
+        "overall_average": "97551.125"
+    },
+    {
+        "college_id": 448,
+        "overall_average": "41120.27777777777777777777778"
+    },
+    {
+        "college_id": 449,
+        "overall_average": "88629.875"
+    },
+    {
+        "college_id": 450,
+        "overall_average": "39428"
+    },
+    {
+        "college_id": 451,
+        "overall_average": "47413.05882352941176470588235"
+    },
+    {
+        "college_id": 452,
+        "overall_average": "122252"
+    },
+    {
+        "college_id": 453,
+        "overall_average": "62658.375"
+    },
+    {
+        "college_id": 454,
+        "overall_average": "98895.4"
+    },
+    {
+        "college_id": 455,
+        "overall_average": "92197.72727272727272727272727"
+    },
+    {
+        "college_id": 456,
+        "overall_average": "103561.8571428571428571428571"
+    },
+    {
+        "college_id": 457,
+        "overall_average": "108442.2222222222222222222222"
+    },
+    {
+        "college_id": 458,
+        "overall_average": "97701.35714285714285714285714"
+    },
+    {
+        "college_id": 459,
+        "overall_average": "26665.91666666666666666666667"
+    },
+    {
+        "college_id": 460,
+        "overall_average": "111229"
+    },
+    {
+        "college_id": 461,
+        "overall_average": "96765.63636363636363636363636"
+    },
+    {
+        "college_id": 462,
+        "overall_average": "100676.5"
+    },
+    {
+        "college_id": 463,
+        "overall_average": "78263.8"
+    },
+    {
+        "college_id": 464,
+        "overall_average": "70944"
+    },
+    {
+        "college_id": 465,
+        "overall_average": "65033.92857142857142857142857"
+    },
+    {
+        "college_id": 466,
+        "overall_average": "94654.6"
+    },
+    {
+        "college_id": 467,
+        "overall_average": "106916.625"
+    },
+    {
+        "college_id": 468,
+        "overall_average": "110003.3"
+    },
+    {
+        "college_id": 469,
+        "overall_average": "97205.2"
+    },
+    {
+        "college_id": 470,
+        "overall_average": "83943.8"
+    },
+    {
+        "college_id": 471,
+        "overall_average": "96712.5"
+    },
+    {
+        "college_id": 472,
+        "overall_average": "94644.84615384615384615384615"
+    },
+    {
+        "college_id": 473,
+        "overall_average": "49414.33333333333333333333333"
+    },
+    {
+        "college_id": 474,
+        "overall_average": "108992.25"
+    },
+    {
+        "college_id": 475,
+        "overall_average": "109463"
+    },
+    {
+        "college_id": 476,
+        "overall_average": "72358.21052631578947368421053"
+    },
+    {
+        "college_id": 477,
+        "overall_average": "100495"
+    },
+    {
+        "college_id": 478,
+        "overall_average": "96116.7"
+    },
+    {
+        "college_id": 479,
+        "overall_average": "90953.05"
+    },
+    {
+        "college_id": 480,
+        "overall_average": "106141.5555555555555555555556"
+    },
+    {
+        "college_id": 483,
+        "overall_average": "90566.30769230769230769230769"
+    },
+    {
+        "college_id": 485,
+        "overall_average": "84284.5"
+    },
+    {
+        "college_id": 487,
+        "overall_average": "103809.2"
+    },
+    {
+        "college_id": 488,
+        "overall_average": "95022.53846153846153846153846"
+    },
+    {
+        "college_id": 489,
+        "overall_average": "53948.25"
+    },
+    {
+        "college_id": 491,
+        "overall_average": "89366.5"
+    },
+    {
+        "college_id": 492,
+        "overall_average": "57363"
+    },
+    {
+        "college_id": 493,
+        "overall_average": "42936.84615384615384615384615"
+    },
+    {
+        "college_id": 494,
+        "overall_average": "100927.4444444444444444444444"
+    },
+    {
+        "college_id": 495,
+        "overall_average": "97170.8"
+    },
+    {
+        "college_id": 496,
+        "overall_average": "22962.08333333333333333333333"
+    },
+    {
+        "college_id": 497,
+        "overall_average": "104975"
+    },
+    {
+        "college_id": 498,
+        "overall_average": "90210.27272727272727272727273"
+    },
+    {
+        "college_id": 500,
+        "overall_average": "96694.83333333333333333333333"
+    },
+    {
+        "college_id": 501,
+        "overall_average": "79181.53846153846153846153846"
+    },
+    {
+        "college_id": 503,
+        "overall_average": "99178"
+    },
+    {
+        "college_id": 504,
+        "overall_average": "109733.25"
+    },
+    {
+        "college_id": 505,
+        "overall_average": "99685.5"
+    },
+    {
+        "college_id": 506,
+        "overall_average": "36482.2"
+    },
+    {
+        "college_id": 507,
+        "overall_average": "104089.3333333333333333333333"
+    },
+    {
+        "college_id": 508,
+        "overall_average": "104874"
+    },
+    {
+        "college_id": 509,
+        "overall_average": "87790.81818181818181818181818"
+    },
+    {
+        "college_id": 511,
+        "overall_average": "87059"
+    },
+    {
+        "college_id": 512,
+        "overall_average": "102026.6"
+    },
+    {
+        "college_id": 513,
+        "overall_average": "108339.5"
+    },
+    {
+        "college_id": 514,
+        "overall_average": "107158.5"
+    },
+    {
+        "college_id": 515,
+        "overall_average": "92767.5"
+    },
+    {
+        "college_id": 516,
+        "overall_average": "108925.8888888888888888888889"
+    },
+    {
+        "college_id": 517,
+        "overall_average": "92080.83333333333333333333333"
+    },
+    {
+        "college_id": 518,
+        "overall_average": "126022"
+    },
+    {
+        "college_id": 519,
+        "overall_average": "74756.54545454545454545454545"
+    },
+    {
+        "college_id": 520,
+        "overall_average": "101870.875"
+    },
+    {
+        "college_id": 521,
+        "overall_average": "99778.41666666666666666666667"
+    },
+    {
+        "college_id": 522,
+        "overall_average": "105645.1"
+    },
+    {
+        "college_id": 523,
+        "overall_average": "108590.2727272727272727272727"
+    },
+    {
+        "college_id": 525,
+        "overall_average": "39668.1875"
+    },
+    {
+        "college_id": 526,
+        "overall_average": "104945"
+    },
+    {
+        "college_id": 527,
+        "overall_average": "96230.08333333333333333333333"
+    },
+    {
+        "college_id": 528,
+        "overall_average": "104039.5454545454545454545455"
+    },
+    {
+        "college_id": 529,
+        "overall_average": "70157.78571428571428571428571"
+    },
+    {
+        "college_id": 530,
+        "overall_average": "87228"
+    },
+    {
+        "college_id": 531,
+        "overall_average": "72723.57142857142857142857143"
+    },
+    {
+        "college_id": 532,
+        "overall_average": "102662.125"
+    },
+    {
+        "college_id": 534,
+        "overall_average": "97452.44444444444444444444444"
+    },
+    {
+        "college_id": 535,
+        "overall_average": "94739"
+    },
+    {
+        "college_id": 536,
+        "overall_average": "97293.22222222222222222222222"
+    },
+    {
+        "college_id": 537,
+        "overall_average": "112379.75"
+    },
+    {
+        "college_id": 538,
+        "overall_average": "110484.1111111111111111111111"
+    },
+    {
+        "college_id": 540,
+        "overall_average": "83332.27272727272727272727273"
+    },
+    {
+        "college_id": 542,
+        "overall_average": "102257.5"
+    },
+    {
+        "college_id": 543,
+        "overall_average": "76164.1"
+    },
+    {
+        "college_id": 544,
+        "overall_average": "78393.28571428571428571428571"
+    },
+    {
+        "college_id": 545,
+        "overall_average": "97885.9"
+    },
+    {
+        "college_id": 547,
+        "overall_average": "106156.125"
+    },
+    {
+        "college_id": 548,
+        "overall_average": "101582.3333333333333333333333"
+    },
+    {
+        "college_id": 549,
+        "overall_average": "97081.85714285714285714285714"
+    },
+    {
+        "college_id": 551,
+        "overall_average": "93192.1"
+    },
+    {
+        "college_id": 552,
+        "overall_average": "94766.11111111111111111111111"
+    },
+    {
+        "college_id": 553,
+        "overall_average": "79328.41666666666666666666667"
+    },
+    {
+        "college_id": 554,
+        "overall_average": "49299"
+    },
+    {
+        "college_id": 555,
+        "overall_average": "93236"
+    },
+    {
+        "college_id": 556,
+        "overall_average": "70236.5"
+    },
+    {
+        "college_id": 557,
+        "overall_average": "96092.57142857142857142857143"
+    },
+    {
+        "college_id": 558,
+        "overall_average": "99458.66666666666666666666667"
+    },
+    {
+        "college_id": 559,
+        "overall_average": "97123.66666666666666666666667"
+    },
+    {
+        "college_id": 560,
+        "overall_average": "133962"
+    },
+    {
+        "college_id": 562,
+        "overall_average": "69330"
+    },
+    {
+        "college_id": 564,
+        "overall_average": "104212.5"
+    },
+    {
+        "college_id": 565,
+        "overall_average": "100584.75"
+    },
+    {
+        "college_id": 566,
+        "overall_average": "88743"
+    },
+    {
+        "college_id": 567,
+        "overall_average": "92755"
+    },
+    {
+        "college_id": 568,
+        "overall_average": "63037.75"
+    },
+    {
+        "college_id": 570,
+        "overall_average": "98286"
+    },
+    {
+        "college_id": 571,
+        "overall_average": "35275"
+    },
+    {
+        "college_id": 572,
+        "overall_average": "98783"
+    },
+    {
+        "college_id": 573,
+        "overall_average": "45929"
+    },
+    {
+        "college_id": 574,
+        "overall_average": "82794"
+    },
+    {
+        "college_id": 575,
+        "overall_average": "68187"
+    },
+    {
+        "college_id": 576,
+        "overall_average": "72054"
+    },
+    {
+        "college_id": 577,
+        "overall_average": "87731"
+    },
+    {
+        "college_id": 578,
+        "overall_average": "100737"
+    },
+    {
+        "college_id": 579,
+        "overall_average": "92089.5"
+    },
+    {
+        "college_id": 580,
+        "overall_average": "112755"
+    },
+    {
+        "college_id": 581,
+        "overall_average": "30238.5"
+    },
+    {
+        "college_id": 582,
+        "overall_average": "101100"
+    },
+    {
+        "college_id": 583,
+        "overall_average": "55637.75"
+    },
+    {
+        "college_id": 584,
+        "overall_average": "48566.5"
+    },
+    {
+        "college_id": 585,
+        "overall_average": "69756.45454545454545454545455"
+    },
+    {
+        "college_id": 586,
+        "overall_average": "34946.4"
+    }
+]

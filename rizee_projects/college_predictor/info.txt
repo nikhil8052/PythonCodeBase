@@ -1,0 +1,80 @@
+Max rank is 30,0315 
+
+
+
+If a student is searching the college.
+
+
+First Task.
+
+if he belongs to the CSE branch.
+
+Filter all the TOP most college of the CSE branch and show him based on the priority.
+
+
+Task 2 . 
+
+How can you give priority to colleges??
+
+First priority colleges.
+Second priority colleges. 
+Third priority colleges. 
+so on ....
+
+
+BOSS students have the cast also and sub caste also. 
+
+
+
+
+
+
+
+
+There are many factors which can be used to give rank to a college ... 
+
+if users comes to platform and don't select anything. 
+
+what can we do ?
+
+We must know his Branch Name. 
+
+then filter out the top most colleges based on the branch. 
+
+let's take example . 
+
+we have student of CSE ... 
+
+Show him the results of topmost colleges of CSE . 
+
+
+
+
+
+
+
+
+SOLUTIONS 
+If user has selected the branch.
+we show the top most colleges based on the Rank. 
+
+
+
+
+Till now we have the SOLUTIONS of the two problems.
+One is if user will select the Branch.
+And if the user will enter the rank. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+SELECT sum(branch_rank_average) as sum  , count(*) as no  FROM `eamcet_branch_rank_avg` group by eamcet_college_id

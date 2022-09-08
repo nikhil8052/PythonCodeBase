@@ -15,7 +15,7 @@ class Database:
         info={"host":self.host, "user":self.user,"password":self.password , "database":self.database }
         return info
 
-    #Connect to database 
+    #Connect to database (This is private function )
     def __connect(self):
         self.db=mysql.connector.connect(
             host=self.host,
@@ -30,6 +30,15 @@ class Database:
         q=f'select * from {table_name}'
         self.cursor.execute(q)
         return self.cursor.fetchall()
+
+        
+    # Insert Data to database 
+    def insert(self,query):
+        self.cursor=self.db.cursor()
+        self.cursor.execute(query)
+        self.db.commit()
+        return 1
+
 
          
 

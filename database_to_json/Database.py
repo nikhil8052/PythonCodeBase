@@ -30,6 +30,13 @@ class Database:
         self.cursor.execute(q)
         return self.cursor.fetchall()
 
+    # Query 
+    def query(self,q):
+        self.cursor=self.db.cursor(dictionary=True)
+        self.cursor.execute(q)
+        self.db.commit()
+    
+
          
 
 

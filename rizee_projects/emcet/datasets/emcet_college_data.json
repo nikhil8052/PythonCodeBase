@@ -1,0 +1,1187 @@
+[
+    {
+        "id": 253,
+        "college_code": "MVSR",
+        "college_name": "M V S R ENGINEERING COLLEGE (AUTONOMOUS), NADERGUL"
+    },
+    {
+        "id": 254,
+        "college_code": "JNTH",
+        "college_name": "JNTU COLLEGE OF ENGG  HYDERABAD, HYDERABAD"
+    },
+    {
+        "id": 255,
+        "college_code": "CVRH",
+        "college_name": "CVR COLLEGE OF ENGINEERING, IBRAHIMPATAN"
+    },
+    {
+        "id": 256,
+        "college_code": "VASV",
+        "college_name": "VASAVI COLLEGE OF ENGINEERING, HYDERABAD"
+    },
+    {
+        "id": 257,
+        "college_code": "CBIT",
+        "college_name": "CHAITANYA BHARATHI INSTITUTE OF TECHNOLOGY, GANDIPET"
+    },
+    {
+        "id": 258,
+        "college_code": "SNIS",
+        "college_name": "SRINIDHI INSTITUTE OF SCI AND TECHNOLOGY, GHATKESAR"
+    },
+    {
+        "id": 259,
+        "college_code": "VJEC",
+        "college_name": "V N R VIGNANA JYOTHI INSTITUTE OF ENGG AND TECH, BACHUPALLY"
+    },
+    {
+        "id": 260,
+        "college_code": "GRRR",
+        "college_name": "GOKARAJU RANGARAJU INSTITUTE OF ENGG AND TECH, MIYAPUR"
+    },
+    {
+        "id": 261,
+        "college_code": "IARE",
+        "college_name": "INSTITUTE OF AERONAUTICAL ENGINEERING, DUNDIGAL"
+    },
+    {
+        "id": 262,
+        "college_code": "INDU",
+        "college_name": "SRI INDU COLLEGE OF ENGG AND TECHNOLOGY (AUTONOMOUS), IBRAHIMPATAN"
+    },
+    {
+        "id": 263,
+        "college_code": "GNTW",
+        "college_name": "G NARAYNAMMA INSTITUTE OF TECHNOLOGY AND SCI, SHAIKPET"
+    },
+    {
+        "id": 264,
+        "college_code": "OUCE",
+        "college_name": "O U COLLEGE OF ENGG  HYDERABAD, HYDERABAD"
+    },
+    {
+        "id": 265,
+        "college_code": "JNTHMT",
+        "college_name": "JNTUH-5 YEAR INTEGRATED MTECH  SELF FINANCE, KUKATPALLY"
+    },
+    {
+        "id": 266,
+        "college_code": "JNTM",
+        "college_name": "JNTUH COLLEGE OF ENGG  MANTHANI, MANTHANI"
+    },
+    {
+        "id": 267,
+        "college_code": "BVRW",
+        "college_name": "BVRIT COLLEGE OF ENGINEERING FOR WOMEN, BACHUPALLY"
+    },
+    {
+        "id": 268,
+        "college_code": "KMIT",
+        "college_name": "KESHAV MEMORIAL INST OF TECHNOLOGY, NARAYANAGUDA"
+    },
+    {
+        "id": 269,
+        "college_code": "JNTS",
+        "college_name": "J N T U COLLEGE OF ENGINEERING  SULTANPUR, SULTANPUR"
+    },
+    {
+        "id": 270,
+        "college_code": "OUCESF",
+        "college_name": "O U COLLEGE OF ENGG  HYDERABAD - SELF FINANCE, HYDERABAD"
+    },
+    {
+        "id": 271,
+        "college_code": "KITS",
+        "college_name": "KAKATIYA INSTITUTE OF TECHNOLOGY AND SCI, WARANGAL"
+    },
+    {
+        "id": 272,
+        "college_code": "VMEG",
+        "college_name": "VARDHAMAN COLLEGE OF ENGINEERING, SHAMSHABAD"
+    },
+    {
+        "id": 273,
+        "college_code": "BVRI",
+        "college_name": "B V RAJU INSTITUTE OF TECHNOLOGY, NARSAPUR"
+    },
+    {
+        "id": 274,
+        "college_code": "MGIT",
+        "college_name": "MAHATMA GANDHI INSTITUTE OF TECHNOLOGY, GANDIPET"
+    },
+    {
+        "id": 275,
+        "college_code": "MJCT",
+        "college_name": "M J COLLEGE OF ENGINEERING AND TECHNOLOGY, BANJARA HILLS"
+    },
+    {
+        "id": 276,
+        "college_code": "CASR",
+        "college_name": "COLLEGE OF AGRICULTURAL ENGG, SANGAREDDY"
+    },
+    {
+        "id": 277,
+        "college_code": "JNKR",
+        "college_name": "JNTU COLLEGE OF ENGINEERING  JAGITIAL, JAGITIAL"
+    },
+    {
+        "id": 278,
+        "college_code": "OUCT",
+        "college_name": "O U COLLEGE OF TECH  HYDERABAD, HYDERABAD"
+    },
+    {
+        "id": 279,
+        "college_code": "MRCW",
+        "college_name": "MALLA REDDY ENGG COLLEGE FOR WOMEN (AUTONOMOUS), MAISAMMAGUDA"
+    },
+    {
+        "id": 280,
+        "college_code": "SRHP",
+        "college_name": "SR UNIVERSITY ( FORMERLY S R ENGINEERING COLLEGE) , HASANPARTHY"
+    },
+    {
+        "id": 281,
+        "college_code": "JMTS",
+        "college_name": "JYOTHISHMATHI INSTITUTE OF TECHNOLOGY AND SCI, KARIMNAGAR"
+    },
+    {
+        "id": 282,
+        "college_code": "SVHU",
+        "college_name": "SATAVAHANA UNIVERSITY, KARIMNAGAR"
+    },
+    {
+        "id": 283,
+        "college_code": "CMRK",
+        "college_name": "C M R COLLEGE OF ENGG AND TECHNOLOGY (AUTONOMOUS), KANDLAKOYA"
+    },
+    {
+        "id": 284,
+        "college_code": "CVSR",
+        "college_name": "ANURAG UNIVERSITY (FORMERLY ANURAG GRP OF INSTNS- CVSR COLL OF ENGG), GHATKESAR"
+    },
+    {
+        "id": 285,
+        "college_code": "MREC",
+        "college_name": "MALLAREDDY ENGINEERING COLLEGE (AUTONOMOUS), MAISAMMAGUDA"
+    },
+    {
+        "id": 286,
+        "college_code": "MECS",
+        "college_name": "MATRUSRI ENGINEERING COLLEGE, HYDERABAD"
+    },
+    {
+        "id": 287,
+        "college_code": "CMRM",
+        "college_name": "CMR INSTITUTE OF TECHNOLOGY (AUTONOMOUS), KANDLAKOYA"
+    },
+    {
+        "id": 288,
+        "college_code": "GLWC",
+        "college_name": "GOKARAJU LAILAVATHI WOMENS ENGINEERING COLLEGE, BACHUPALLY"
+    },
+    {
+        "id": 289,
+        "college_code": "MRTN",
+        "college_name": "ST MARTINS ENGINEERING COLLEGE (AUTONOMOUS), DHULAPALLY"
+    },
+    {
+        "id": 290,
+        "college_code": "GNIT",
+        "college_name": "GURUNANAK INST OF TECHNOLOGY, IBRAHIMPATAN"
+    },
+    {
+        "id": 291,
+        "college_code": "NGIT",
+        "college_name": "NEIL GOGTE INST OF TECHNOLOGY, KACHIVANI SINGARAM"
+    },
+    {
+        "id": 292,
+        "college_code": "KTKM",
+        "college_name": "KAMALA INSTITUTE OF TECHNOLOGY AND SCIENCE, HUZURABAD"
+    },
+    {
+        "id": 293,
+        "college_code": "VJIT",
+        "college_name": "VIDYAJYOTHI INSTITUTE OF TECHNOLOGY, MOINABAD"
+    },
+    {
+        "id": 294,
+        "college_code": "ISLC",
+        "college_name": "ISL ENGINEERING COLLEGE, BANDLAGUDA"
+    },
+    {
+        "id": 295,
+        "college_code": "KUWL",
+        "college_name": "KU COLLEGE OF ENGINEERING  AND TECHNOLOGY, WARANGAL"
+    },
+    {
+        "id": 296,
+        "college_code": "GCTC",
+        "college_name": "GEETANJALI COLLEGE OF ENGG AND TECHNOLOGY (AUTONOMOUS), KEESARA"
+    },
+    {
+        "id": 297,
+        "college_code": "INDI",
+        "college_name": "SRI INDU INSTITUTE OF ENGINEERING AND TECHNOLOGY, IBRAHIMPATAN"
+    },
+    {
+        "id": 298,
+        "college_code": "BREW",
+        "college_name": "BHOJREDDY ENGINEERING COLLEGE FOR WOMEN, SAIDABAD"
+    },
+    {
+        "id": 299,
+        "college_code": "SBIT",
+        "college_name": "SWARNA BHARATHI INSTITUTE OF SCI AND TECHNOLOGY, KHAMMAM"
+    },
+    {
+        "id": 300,
+        "college_code": "GURU",
+        "college_name": "GURU NANAK INSTITUTIONS TECHNICAL CAMPUS (AUTONOMOUS), IBRAHIMPATAN"
+    },
+    {
+        "id": 301,
+        "college_code": "CHTN",
+        "college_name": "SREE CHAITANYA COLLEGE OF ENGINEERING, KARIMNAGAR"
+    },
+    {
+        "id": 302,
+        "college_code": "MLID",
+        "college_name": "M L R INSTITUTE OF TECHNOLOGY, DUNDIGAL"
+    },
+    {
+        "id": 303,
+        "college_code": "BITN",
+        "college_name": "BALAJI INSTITUTE OF TECHNOLOGY AND SCI, NARSAMPET"
+    },
+    {
+        "id": 304,
+        "college_code": "MLRS",
+        "college_name": "MARRI LAXMAN REDDY INST OF TECHNOLOGY AND MANAGEMENT (AUTONOMOUS), DUNDIGAL"
+    },
+    {
+        "id": 305,
+        "college_code": "MLRD",
+        "college_name": "MALLA REDDY COLLEGE OF ENGG  TECHNOLOGY (AUTONOMOUS), MYSAMMAGUDA"
+    },
+    {
+        "id": 306,
+        "college_code": "KITW",
+        "college_name": "KAKATIYA INST OF TECHNOLOGY SCI FOR WOMEN, NIZAMABAD"
+    },
+    {
+        "id": 307,
+        "college_code": "CMRN",
+        "college_name": "CMR ENGG COLLEGE (AUTONOMOUS), KANDLAKOYA"
+    },
+    {
+        "id": 308,
+        "college_code": "STLW",
+        "college_name": "STANLEY COLLEGE OF ENGG AND TECHNOLOGY FOR WOMEN (AUTONOMOUS), ABIDS"
+    },
+    {
+        "id": 309,
+        "college_code": "ANRK",
+        "college_name": "ANURAG ENGINEERING COLLGE, KODAD"
+    },
+    {
+        "id": 310,
+        "college_code": "VJYA",
+        "college_name": "VIJAYA ENGINEERING COLLEGE, KHAMMAM"
+    },
+    {
+        "id": 311,
+        "college_code": "VGNT",
+        "college_name": "VIGNAN INSTITUTE OF TECHNOLOGY AND SCI, DESHMUKHI"
+    },
+    {
+        "id": 312,
+        "college_code": "VBIT",
+        "college_name": "VIGNAN BHARATI INSTITUTE OF TECHNOLOGY (AUTONOMOUS), GHATKESAR"
+    },
+    {
+        "id": 313,
+        "college_code": "CMRG",
+        "college_name": "CMR TECHNICAL CAMPUS (AUTONOMOUS), KANDLAKOYA"
+    },
+    {
+        "id": 314,
+        "college_code": "CFSR",
+        "college_name": "COLLEGE OF FOOD SCIENCE AND TECHNOLOGY, RUDRUR"
+    },
+    {
+        "id": 315,
+        "college_code": "HITM",
+        "college_name": "HYDERABAD INST OF TECHNOLOGY AND MGMT (AUTONOMOUS), MEDCHAL"
+    },
+    {
+        "id": 316,
+        "college_code": "KMEC",
+        "college_name": "KESHAV MEMORIAL ENGINEERING COLLEGE, KACHWANISINGARAM"
+    },
+    {
+        "id": 317,
+        "college_code": "SDEW",
+        "college_name": "SRIDEVI WOMENS ENGINEERING COLLEGE, GANDIPET"
+    },
+    {
+        "id": 318,
+        "college_code": "MHVR",
+        "college_name": "MAHAVEER INSTITUTE OF SCI AND TECHNOLOGY, BANDLAGUDA"
+    },
+    {
+        "id": 319,
+        "college_code": "GLOB",
+        "college_name": "GLOBAL INST OF ENGINEERING AND TECHNOLOGY, CHILKUR"
+    },
+    {
+        "id": 320,
+        "college_code": "IITT",
+        "college_name": "INDUR INSTITUTE OF ENGINEERING AND TECHNOLOGY, SIDDIPET"
+    },
+    {
+        "id": 321,
+        "college_code": "SPEC",
+        "college_name": "ST PETERS ENGINEERING COLLEGE (AUTONOMOUS), MEDCHAL"
+    },
+    {
+        "id": 322,
+        "college_code": "VMTW",
+        "college_name": "VIGNANS INST OF MANAGEMENT AND TECH FOR WOMEN, GHATKESAR"
+    },
+    {
+        "id": 323,
+        "college_code": "MINA",
+        "college_name": "MINA INST OF ENGG AND TECHNOLOGY FOR WOMEN, MIRYALAGUDA"
+    },
+    {
+        "id": 324,
+        "college_code": "JBIT",
+        "college_name": "J B INSTITUTE OF ENGG AND TECHNOLOGY (AUTONOMOUS), YENKAPALLY"
+    },
+    {
+        "id": 325,
+        "college_code": "KUCESF",
+        "college_name": "K U COLLEGE OF ENGG  KOTHAGUDEM - SELF FINANCE, KOTHAGUDEM"
+    },
+    {
+        "id": 326,
+        "college_code": "NAWB",
+        "college_name": "NAWAB SHAH ALAM KHAN COLL OF ENGG AND TECH, NEW MALAKPET"
+    },
+    {
+        "id": 327,
+        "college_code": "PALV",
+        "college_name": "PALLAVI ENGINEERING COLLEGE, KUNTLOOR"
+    },
+    {
+        "id": 328,
+        "college_code": "KUCE",
+        "college_name": "K U COLLEGE OF ENGG  KOTHAGUDEM, KOTHAGUDEM"
+    },
+    {
+        "id": 329,
+        "college_code": "CHTS",
+        "college_name": "SREE CHAITANYA INST OF TECHNOLOGY SCIENCES, KARIMNAGAR"
+    },
+    {
+        "id": 330,
+        "college_code": "SNTI",
+        "college_name": "SCIENT INSTITUTE OF TECHNOLOGY, IBRAHIMPATAN"
+    },
+    {
+        "id": 331,
+        "college_code": "AURG",
+        "college_name": "AURORAS SCIENTIFIC AND TECHNOLOGICAL INSTITUTE, GHATKESAR"
+    },
+    {
+        "id": 332,
+        "college_code": "TKRC",
+        "college_name": "T K R COLLEGE OF ENGG AND TECHNOLOGY (AUTONOMOUS), MIRPET"
+    },
+    {
+        "id": 333,
+        "college_code": "AVNI",
+        "college_name": "AVN INST OF ENGG TECHNOLOGY, IBRAHIMPATAN"
+    },
+    {
+        "id": 334,
+        "college_code": "SRIW",
+        "college_name": "SUMATHI REDDY INST OF TECHNOLOGY FOR WOMEN, HASANPARTHY"
+    },
+    {
+        "id": 335,
+        "college_code": "VGSE",
+        "college_name": "VAAGESHWARI COLL OF ENGINEERING, KARIMNAGAR"
+    },
+    {
+        "id": 336,
+        "college_code": "SAIS",
+        "college_name": "SAI SPURTI INSTITUTE OF TECHNOLOGY, SATHUPALLY"
+    },
+    {
+        "id": 337,
+        "college_code": "DCET",
+        "college_name": "DECCAN COLLEGE OF ENGINEERING AND TECHNOLOGY, DARUSSALAM"
+    },
+    {
+        "id": 338,
+        "college_code": "MRET",
+        "college_name": "MALLAREDDY INST OF ENGG AND TECHNOLOGY (AUTONOMOUS), MAISAMMAGUDA"
+    },
+    {
+        "id": 339,
+        "college_code": "NRCM",
+        "college_name": "NARSIMHAREDDY ENGINEERING COLLEGE (AUTONOMOUS), MAISAMMAGUDA"
+    },
+    {
+        "id": 340,
+        "college_code": "JNTR",
+        "college_name": "JNTU COLLEGE OF ENGINEERING RAJANNA SIRCILLA, AGRAHARAM RAJANNA SIRCILLA"
+    },
+    {
+        "id": 341,
+        "college_code": "KUEWSF",
+        "college_name": "UNIVERSITY COLLEGE OF ENGG AND TECH FOR WOMEN KU CAMPUS, WARANGAL"
+    },
+    {
+        "id": 342,
+        "college_code": "SISG",
+        "college_name": "SIDDHARTHA INSTT OF TECHNOLOGY AND SCIENCES, GHATKESAR"
+    },
+    {
+        "id": 343,
+        "college_code": "AURP",
+        "college_name": "AURORAS TECHNOLOGICAL AND  RESEARCH INSTITUTE, PARVATHAPUR"
+    },
+    {
+        "id": 344,
+        "college_code": "VAGE",
+        "college_name": "VAAGDEVI COLLEGE OF ENGINEERING, WARANGAL"
+    },
+    {
+        "id": 345,
+        "college_code": "ACEG",
+        "college_name": "A C E ENGINEERING COLLEGE (AUTONOMOUS), GHATKESAR"
+    },
+    {
+        "id": 346,
+        "college_code": "METH",
+        "college_name": "METHODIST COLLEGE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS), ABIDS"
+    },
+    {
+        "id": 347,
+        "college_code": "MRCE",
+        "college_name": "MALLA REDDY COLLEGE OF ENGINEERING, MYSAMMAGUDA"
+    },
+    {
+        "id": 348,
+        "college_code": "MREW",
+        "college_name": "MALLA REDDY COLLEGE OF ENGINEERING FOR WOMEN, MAISAMMAGUDA"
+    },
+    {
+        "id": 349,
+        "college_code": "MGHA",
+        "college_name": "MEGHA INST OF ENGG AND TECHNOLOGY FOR WOMEN, GHATKESAR"
+    },
+    {
+        "id": 350,
+        "college_code": "SRYS",
+        "college_name": "SREYAS INST OF ENGG AND TECHNOLOGY, NAGOLE"
+    },
+    {
+        "id": 351,
+        "college_code": "CJIT",
+        "college_name": "CHRISTU JYOTHI INSTITUTE OF TECHNOLOGY AND SCI, JANGAON"
+    },
+    {
+        "id": 352,
+        "college_code": "WESL",
+        "college_name": "CSI WESLEY INST OF TECHNOLOGY AND SCIENCES, SECUNDERABAD"
+    },
+    {
+        "id": 353,
+        "college_code": "KUWLSF",
+        "college_name": "KU COLLEGE OF ENGINEERING  AND TECHNOLOGY - SELF FINANCE, WARANGAL"
+    },
+    {
+        "id": 354,
+        "college_code": "RITW",
+        "college_name": "RISHI MS INST OF ENGG AND TECH FOR WOMEN, KUKATPALLY"
+    },
+    {
+        "id": 355,
+        "college_code": "BOSE",
+        "college_name": "ANU BOSE INSTT OF TECHNOLOGY, PALONCHA"
+    },
+    {
+        "id": 356,
+        "college_code": "VGWL",
+        "college_name": "VAGDEVI ENGINEERING COLLEGE, WARANGAL"
+    },
+    {
+        "id": 357,
+        "college_code": "TKEM",
+        "college_name": "TEEGALA KRISHNA REDDY ENGINEERING COLLEGE (AUTONOMOUS), MIRPET"
+    },
+    {
+        "id": 358,
+        "college_code": "MOTK",
+        "college_name": "MOTHER TERESA INSTITUTE OF SCI AND TECHNOLOGY, SATHUPALLY"
+    },
+    {
+        "id": 359,
+        "college_code": "ASRA",
+        "college_name": "AVANTHIS SCIENTIFIC TECH AND RESEARCH ACADEMY, HAYATHNAGAR"
+    },
+    {
+        "id": 360,
+        "college_code": "MLTM",
+        "college_name": "MALLA REDDY INSTITUTE OF TECHNOLOGY, MAISAMMAGUDA"
+    },
+    {
+        "id": 361,
+        "college_code": "SVIT",
+        "college_name": "SWAMI VIVEKANANDA INST OF TECHNOLOGY, SECUNDERABAD"
+    },
+    {
+        "id": 362,
+        "college_code": "KDDW",
+        "college_name": "KODADA INST OF TECHNOLOGY AND SCIENCE FOR WOMEN, KODADA"
+    },
+    {
+        "id": 363,
+        "college_code": "TPCE",
+        "college_name": "TALLA PADMAVATHI COLL OF ENGINEERING, KAZIPET"
+    },
+    {
+        "id": 364,
+        "college_code": "BIET",
+        "college_name": "BHARAT INSTITUTE OF ENGG AND TECHNOLOGY, IBRAHIMPATNAM"
+    },
+    {
+        "id": 365,
+        "college_code": "WITS",
+        "college_name": "WARANGAL INST OF TECHNOLOGY SCIENCE, WARANGAL"
+    },
+    {
+        "id": 366,
+        "college_code": "VCET",
+        "college_name": "VISWESWARAYA COLL OF ENGG AND TECHNOLOGY, IBRAHIMPATAN"
+    },
+    {
+        "id": 367,
+        "college_code": "SMSK",
+        "college_name": "SAMSKRUTHI COLLEGE OF ENGG AND TECHNOLOGY, GHATKESAR"
+    },
+    {
+        "id": 368,
+        "college_code": "KMTS",
+        "college_name": "KHAMMAM INST OF TECHNOLOGY AND SCIENCE, KHAMMAM"
+    },
+    {
+        "id": 369,
+        "college_code": "CHET",
+        "college_name": "SRI CHAITANYA TECHNICAL CAMPUS, IBRAHIMPATAN"
+    },
+    {
+        "id": 370,
+        "college_code": "BNPW",
+        "college_name": "BOJJAM NARASIMHULU PHARM COLL FOR WOMEN, SAIDABAD"
+    },
+    {
+        "id": 371,
+        "college_code": "AARM",
+        "college_name": "AAR MAHAVEER ENGINEERING COLLEGE, BANDLAGUDA"
+    },
+    {
+        "id": 372,
+        "college_code": "NREC",
+        "college_name": "NALLAMALLA REDDY ENGINEERING COLLEGE (AUTONOMOUS), GHATKESAR"
+    },
+    {
+        "id": 373,
+        "college_code": "KNRR",
+        "college_name": "KASIREDDY NARAYANAREDDY COLL ENGG RES, HAYATHNAGAR"
+    },
+    {
+        "id": 374,
+        "college_code": "MTEC",
+        "college_name": "MOTHER THERESA COLLEGE OF ENGG AND TECHNOLOGY, PEDDAPALLY"
+    },
+    {
+        "id": 375,
+        "college_code": "VVKN",
+        "college_name": "VIVEKANANDA INSTT OF TECH AND SCI  BOMMAKAL, KARIMNAGAR"
+    },
+    {
+        "id": 376,
+        "college_code": "JPNE",
+        "college_name": "JAYA PRAKASH NARAYAN COLLEGE OF ENGINEERING, MAHABUBNAGAR"
+    },
+    {
+        "id": 377,
+        "college_code": "NNRG",
+        "college_name": "NALLA NARASIMHA REDDY EDNL SOC GRP OF INSTNS (AUTONOMOUS), GHATKESAR"
+    },
+    {
+        "id": 378,
+        "college_code": "SVES",
+        "college_name": "SRI VENKATESWARA ENGINEERING COLLEGE, SURYAPETA"
+    },
+    {
+        "id": 379,
+        "college_code": "LRDS",
+        "college_name": "LORDS INSTITUTE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS), HIMAYATSAGAR"
+    },
+    {
+        "id": 380,
+        "college_code": "SIEI",
+        "college_name": "SIDDHARTHA INSTT OF ENGG AND TECHNOLOGY, IBRAHIMPATAN"
+    },
+    {
+        "id": 381,
+        "college_code": "KGRH",
+        "college_name": "KG REDDY COLLEGE OF ENGG AND TECHNOLOGY (AUTONOMOUS), MOINABAD"
+    },
+    {
+        "id": 382,
+        "college_code": "MGUNSF",
+        "college_name": "MGU COLLEGE OF ENGINEERING AND TECHNOLOGY, NALGONDA"
+    },
+    {
+        "id": 383,
+        "college_code": "BOMA",
+        "college_name": "BOMMA INST OF TECHNOLOGY AND SCI, KHAMMAM"
+    },
+    {
+        "id": 384,
+        "college_code": "GPRP",
+        "college_name": "G P R COLLEGE OF PHARMACY, MEHDIPATNAM"
+    },
+    {
+        "id": 385,
+        "college_code": "PETW",
+        "college_name": "PRINCETON INST OF ENGG TECH FOR WOMEN, GHATKESAR"
+    },
+    {
+        "id": 386,
+        "college_code": "SPHN",
+        "college_name": "SPHOORTHY ENGINEERING COLLEGE, NADERGUL"
+    },
+    {
+        "id": 387,
+        "college_code": "JNPASF",
+        "college_name": "JNAFAU SCHOOL OF PLANNING AND ARCH - SELF FINANCE, MASABTANK"
+    },
+    {
+        "id": 388,
+        "college_code": "VAGP",
+        "college_name": "VAGDEVI COLLEGE OF PHARMACY, HANAMKONDA"
+    },
+    {
+        "id": 389,
+        "college_code": "AVIH",
+        "college_name": "AVANTHI INST OF ENGG AND TECHNOLOGY, HAYATHNAGAR"
+    },
+    {
+        "id": 390,
+        "college_code": "BRIL",
+        "college_name": "BRILLIANT INSTT OF ENGG AND TECHNOLOGY, HAYATHNAGAR"
+    },
+    {
+        "id": 391,
+        "college_code": "MRIT",
+        "college_name": "MALLAREDDY INST OF TECHNOLOGY AND SCI, MAISAMMAGUDA"
+    },
+    {
+        "id": 392,
+        "college_code": "PRIW",
+        "college_name": "PRIYADARSHINI INSTITUTE OF SCIENCE & TECHNOLOGY FOR WOMEN, KHAMMAM"
+    },
+    {
+        "id": 393,
+        "college_code": "JAYA",
+        "college_name": "JAYAMUKHI INSTITUTE OF TECHNOLOGY AND SCIS, NARSAMPET"
+    },
+    {
+        "id": 394,
+        "college_code": "HOLY",
+        "college_name": "HOLY MARY INSTITUTE OF TECH SCIENCE (AUTONOMOUS), KEESARA"
+    },
+    {
+        "id": 395,
+        "college_code": "NGMA",
+        "college_name": "NIGAMA ENGINEERING COLLEGE, KARIMNAGAR"
+    },
+    {
+        "id": 396,
+        "college_code": "AKIT",
+        "college_name": "ABDULKALAM INST OF TECHNOLOGY AND SCI, KOTHAGUDEM"
+    },
+    {
+        "id": 397,
+        "college_code": "TCEK",
+        "college_name": "TRINITY COLLEGE OF ENGINEERING AND TECHNOLOGY, PEDDAPALLY"
+    },
+    {
+        "id": 398,
+        "college_code": "SMED",
+        "college_name": "ST  MARYS GROUP OF INSTITUTIONS, DESHMUKHI"
+    },
+    {
+        "id": 399,
+        "college_code": "VSNU",
+        "college_name": "VISHNU INST OF PHARM EDN AND RESEARCH, VISHNUPUR"
+    },
+    {
+        "id": 400,
+        "college_code": "VKAS",
+        "college_name": "VIKAS COLLEGE OF PHARMACY, JANAGAON"
+    },
+    {
+        "id": 401,
+        "college_code": "VREC",
+        "college_name": "VIJAYA RURAL ENGINEERING COLLEGE, NIZAMABAD"
+    },
+    {
+        "id": 402,
+        "college_code": "SWET",
+        "college_name": "SHADHAN WOMENS COLL OF ENGG AND TECHNOLOGY, KHAIRTABAD"
+    },
+    {
+        "id": 403,
+        "college_code": "BRIG",
+        "college_name": "BRILLIANT GRAMMER SCHOOL EDNL SOC GRP OF INSTNS, HAYATHNAGAR"
+    },
+    {
+        "id": 404,
+        "college_code": "ELEN",
+        "college_name": "ELLENKI COLLGE OF ENGG AND TECHNOLOGY, PATANCHERU"
+    },
+    {
+        "id": 405,
+        "college_code": "MREM",
+        "college_name": "MALLA REDDY ENGINEERING COLLEGE AND MANAGEMENT SCIENCES, MEDCHAL"
+    },
+    {
+        "id": 406,
+        "college_code": "TCTK",
+        "college_name": "TRINITY COLLEGE OF ENGINEERING AND TECHNOLOGY, KARIMNAGAR"
+    },
+    {
+        "id": 407,
+        "college_code": "AZAD",
+        "college_name": "AZAD COLLEGE OF ENGINEERING AND TECHNOLOGY, MOINABAD"
+    },
+    {
+        "id": 408,
+        "college_code": "DRKC",
+        "college_name": "D R K COLLEGE OF ENGINEERING AND TECHNOLOGY, BOWRAMPET"
+    },
+    {
+        "id": 409,
+        "college_code": "ARYA",
+        "college_name": "ARYA COLLEGE OF PHARMACY, KANDI"
+    },
+    {
+        "id": 410,
+        "college_code": "SVSE",
+        "college_name": "SVS GRP OF INSTNS - SVS INST OF TECH, HANAMKONDA"
+    },
+    {
+        "id": 411,
+        "college_code": "CDTK",
+        "college_name": "COLLEGE OF DAIRY TECHNOLOGY, KAMAREDDY"
+    },
+    {
+        "id": 412,
+        "college_code": "KLRT",
+        "college_name": "KLRCOLLEGE OF ENGG AND TECHNOLOGY PALONCHA, PALONCHA"
+    },
+    {
+        "id": 413,
+        "college_code": "AITH",
+        "college_name": "ANNAMACHARYA INST OF TECHNOLOGY AND SCI, HAYATHNAGAR"
+    },
+    {
+        "id": 414,
+        "college_code": "PLMU",
+        "college_name": "PALAMUR UNIVERSITY, MAHABUBNAGAR"
+    },
+    {
+        "id": 415,
+        "college_code": "VBEC",
+        "college_name": "VIGNANA BHARATHI ENGINEERING COLLEGE, IBRAHIMPATAN"
+    },
+    {
+        "id": 416,
+        "college_code": "JOGI",
+        "college_name": "JOGINPALLY B R ENGINEERING COLLEGE, YENKAPALLY"
+    },
+    {
+        "id": 417,
+        "college_code": "CMRP",
+        "college_name": "C M R COLL OF PHARMACY, KANDLAKOYA"
+    },
+    {
+        "id": 418,
+        "college_code": "KUCP",
+        "college_name": "K U COLLEGE OF PHARMACEUTICAL SCIENCES, WARANGAL"
+    },
+    {
+        "id": 419,
+        "college_code": "KCEA",
+        "college_name": "KSHATRIYA COLLEGE OF ENGINEERING, ARMOOR"
+    },
+    {
+        "id": 420,
+        "college_code": "SUUP",
+        "college_name": "SULTAN UL-ULOOM COLLEGE OF PHARMACY, BANJARA HILLS"
+    },
+    {
+        "id": 421,
+        "college_code": "SMCD",
+        "college_name": "ST  MARYS ENGINEERING COLLEGE, DESHMUKHI"
+    },
+    {
+        "id": 422,
+        "college_code": "KPRT",
+        "college_name": "KOMMURI PRATAP REDDY INST OF TECHNOLOGY, GHATKESAR"
+    },
+    {
+        "id": 423,
+        "college_code": "VCPN",
+        "college_name": "VIJAY COLL OF PHARMACY, NIZAMABAD"
+    },
+    {
+        "id": 424,
+        "college_code": "MNRT",
+        "college_name": "MNRCOLLEGE OF ENGINEERING AND TECHNOLOGY, SANGAREDDY"
+    },
+    {
+        "id": 425,
+        "college_code": "VRKW",
+        "college_name": "DR VRK WOMENS COLL OF ENGG AND TECHNOLOGY, MOINABAD"
+    },
+    {
+        "id": 426,
+        "college_code": "SCET",
+        "college_name": "SHADHAN COLL OF ENGINEERING AND TECHNOLOGY, PEERANCHERU"
+    },
+    {
+        "id": 427,
+        "college_code": "GRCP",
+        "college_name": "GOKARAJU RANGARAJU COLLEGE OF PHARMACY, BACHUPALLI"
+    },
+    {
+        "id": 428,
+        "college_code": "SDGI",
+        "college_name": "SREE DATTHA GRP OF INSTNS, IBRAHIMPATAN"
+    },
+    {
+        "id": 429,
+        "college_code": "DSOP",
+        "college_name": "DECCAN SCHOOL OF PHARMACY, NAMPALLY"
+    },
+    {
+        "id": 430,
+        "college_code": "ARJN",
+        "college_name": "ARJUN COLLEGE OF TECHNOLOGY AND SCIENCE, BATASINGARAM"
+    },
+    {
+        "id": 431,
+        "college_code": "OUCTSF",
+        "college_name": "O U COLLEGE OF TECH  HYDERABAD  - SELF FINANCE, HYDERABAD"
+    },
+    {
+        "id": 432,
+        "college_code": "MDRK",
+        "college_name": "MADHIRA INSTITUTE OF TECHNOLOGY AND SCI, KODAD"
+    },
+    {
+        "id": 433,
+        "college_code": "SDES",
+        "college_name": "SREE DATTHA INSTITUTE OF ENGINEERING AND SCIENCE, IBRAHIMPATAN"
+    },
+    {
+        "id": 434,
+        "college_code": "MNRP",
+        "college_name": "M N R COLLEGE OF PHARMACY, SANGAREDDY"
+    },
+    {
+        "id": 435,
+        "college_code": "DRKI",
+        "college_name": "D R K INSTITUTE OF SCI AND TECHNOLOGY, BOWRAMPET"
+    },
+    {
+        "id": 436,
+        "college_code": "VITS",
+        "college_name": "SRI VISHWESWARAYA INST OF TECHNOLOGY AND SCI, MAHABUBNAGAR"
+    },
+    {
+        "id": 437,
+        "college_code": "GATE",
+        "college_name": "GATE INSTITUTE OF TECHNOLOGYAND SCIENCES, KODAD"
+    },
+    {
+        "id": 438,
+        "college_code": "SRCP",
+        "college_name": "S R R COLLEGE OF PHARMACEUTICAL SCIS, ELKATHURTY"
+    },
+    {
+        "id": 439,
+        "college_code": "BSKR",
+        "college_name": "BHASKAR ENGINEERING COLLEGE, YENKAPALLY"
+    },
+    {
+        "id": 440,
+        "college_code": "SCOP",
+        "college_name": "SHADAN COLLEGE OF PHARMACY, PEERANCHERU"
+    },
+    {
+        "id": 441,
+        "college_code": "SNVM",
+        "college_name": "S N VANITHA PHARMACY MAHA VIDYALAYA, TARNAKA"
+    },
+    {
+        "id": 442,
+        "college_code": "GNPT",
+        "college_name": "GANAPATHI ENGINEERING COLLGE, WARANGAL"
+    },
+    {
+        "id": 443,
+        "college_code": "NIET",
+        "college_name": "NETAJI INSTITUTE OF ENGINEERING AND TECHNOLOGY, CHOUTUPPAL"
+    },
+    {
+        "id": 444,
+        "college_code": "DARE",
+        "college_name": "DARIPALLY ANANTHA RAMULU COLLOF ENGGAND TECH, KHAMMAM"
+    },
+    {
+        "id": 445,
+        "college_code": "BPCP",
+        "college_name": "BHASKAR PHARMACY COLLEGE, YENKAPALLY"
+    },
+    {
+        "id": 446,
+        "college_code": "MRCP",
+        "college_name": "MALLA REDDY COLLEGE OF PHARMACY, MAISAMMAGUDA"
+    },
+    {
+        "id": 447,
+        "college_code": "MIPM",
+        "college_name": "MOONRAY INST OF PHARM SCI, RAIKAL"
+    },
+    {
+        "id": 448,
+        "college_code": "MMTZ",
+        "college_name": "MUMTAZ COLL OF ENGG TECHNOLOGY, HYDERABAD"
+    },
+    {
+        "id": 449,
+        "college_code": "AVHP",
+        "college_name": "AVANTHI INST OF PHARMSCI, HAYATHNAGAR"
+    },
+    {
+        "id": 450,
+        "college_code": "AIZA",
+        "college_name": "AIZZA COLLEGE OF ENGG AND TECHNOLOGY, MANCHERIAL"
+    },
+    {
+        "id": 451,
+        "college_code": "KVKP",
+        "college_name": "K V K COLLEGE OF PHARMACY, SURMAIGUDA"
+    },
+    {
+        "id": 452,
+        "college_code": "VGNP",
+        "college_name": "VIGNAN INST OF PHARM SCI, DESHMUKHI"
+    },
+    {
+        "id": 453,
+        "college_code": "SWCP",
+        "college_name": "SHADHAN WOMENS COLL OF PHARM, KHAIRATABAD"
+    },
+    {
+        "id": 454,
+        "college_code": "SPLP",
+        "college_name": "STPAULS COLLEGE OF PHARMACY, TURKAYAMJAL"
+    },
+    {
+        "id": 455,
+        "college_code": "SDCP",
+        "college_name": "SURABHI DAYAKAR RAO COLLEGE OF PHARMACY , GAJWEL"
+    },
+    {
+        "id": 456,
+        "college_code": "VGSP",
+        "college_name": "VAAGESWARI COLLEGE OF PHARMACY, KARIMNAGAR"
+    },
+    {
+        "id": 457,
+        "college_code": "OMGP",
+        "college_name": "OMEGA COLLEGE OF PHARMACY, GHATKESAR"
+    },
+    {
+        "id": 458,
+        "college_code": "TRPM",
+        "college_name": "TEEGALA RAMI REDDY COLL OF PHARMACY, MIRPET"
+    },
+    {
+        "id": 459,
+        "college_code": "ANWP",
+        "college_name": "ANWAR-ULOOM COLLEGE  OF PHARMACY, HYDERABAD"
+    },
+    {
+        "id": 460,
+        "college_code": "GLND",
+        "college_name": "GLAND INST OF PHARACEUTICAL SCIENCES, KOTHAPET"
+    },
+    {
+        "id": 461,
+        "college_code": "GBCP",
+        "college_name": "GLOBAL COLLEGE OF PHARMACY, CHILKUR"
+    },
+    {
+        "id": 462,
+        "college_code": "SVSP",
+        "college_name": "SVS GRP OF INSTNS - SVS INST OF PHARMACY, HANAMKONDA"
+    },
+    {
+        "id": 463,
+        "college_code": "UCPB",
+        "college_name": "UNITY COLLEGE OF PHARMACY, BHONGIR"
+    },
+    {
+        "id": 464,
+        "college_code": "VGPC",
+        "college_name": "VAGDEVI PHARMACY COLLEGE, WARANGAL"
+    },
+    {
+        "id": 465,
+        "college_code": "SSJP",
+        "college_name": "S S J COLLEGE OF PHARMACY, GANDIPET"
+    },
+    {
+        "id": 466,
+        "college_code": "MAXP",
+        "college_name": "MAX INST OF PHARM SCI, KHAMMAM"
+    },
+    {
+        "id": 467,
+        "college_code": "MIPK",
+        "college_name": "MOHAMMADIYA INSTITUTE OF PHARMACY, KHAMMAM"
+    },
+    {
+        "id": 468,
+        "college_code": "VCOP",
+        "college_name": "SRI VENKATESWARA COLLEGE OF PHARMACY, MADHAPUR"
+    },
+    {
+        "id": 469,
+        "college_code": "GJCP",
+        "college_name": "GYANA JYOTHI COLLEGE OF PHARMACY, UPPAL"
+    },
+    {
+        "id": 470,
+        "college_code": "ANRP",
+        "college_name": "ANURAG PHARMACY COLLEGE, KODADA"
+    },
+    {
+        "id": 471,
+        "college_code": "GCPK",
+        "college_name": "GEETHANJALI COLL OF PHARM, KEESARA"
+    },
+    {
+        "id": 472,
+        "college_code": "SMPS",
+        "college_name": "STMARYS COLLEGE OF PHARMACY, SECUNDERABAD"
+    },
+    {
+        "id": 473,
+        "college_code": "SMIC",
+        "college_name": "ST MARYS INTEGRATED CAMPUS, DESHMUKHI"
+    },
+    {
+        "id": 474,
+        "college_code": "KRUP",
+        "college_name": "SRI KRUPA INSTITUTE OF PHARMACEUTICAL SCIS, KONDAPAK"
+    },
+    {
+        "id": 475,
+        "college_code": "MDRP",
+        "college_name": "MADIRA INST OF TECHNOLOGYAND SCI, KODAD"
+    },
+    {
+        "id": 476,
+        "college_code": "VISA",
+        "college_name": "VATHSALYA INSTITUTE OF SCI AND TECHNOLOGY, BHONGIR"
+    },
+    {
+        "id": 477,
+        "college_code": "BIPT",
+        "college_name": "BHARAT SCHOOL OF PHARMACY, IBRAHIMPATAN"
+    },
+    {
+        "id": 478,
+        "college_code": "MESP",
+        "college_name": "MESCO COLLEGE OF PHARMACY, MUSTAIDPURA"
+    },
+    {
+        "id": 479,
+        "college_code": "JANG",
+        "college_name": "JANGOAN INSTITUTE OF PHARMACEUTICAL SCIS, JANGAON"
+    },
+    {
+        "id": 480,
+        "college_code": "GBNP",
+        "college_name": "GURRAM BALANARSAIAH INST OF PHARMACY, GHATKESAR"
+    },
+    {
+        "id": 481,
+        "college_code": "KRCP",
+        "college_name": "KL  R PHARMACY COLLEGE, PALVONCHA"
+    },
+    {
+        "id": 482,
+        "college_code": "VJYH",
+        "college_name": "VIJAYA COLLEGE OF PHARMACY, HAYATHNAGAR"
+    },
+    {
+        "id": 483,
+        "college_code": "NETW",
+        "college_name": "NOBLE COLLEGE OF ENGG TECHNOLOGY FOR WOMEN, NADERGUL"
+    },
+    {
+        "id": 484,
+        "college_code": "TMLP",
+        "college_name": "TIRUMALA COLL OF PHARMACY, NIZAMABAD"
+    },
+    {
+        "id": 485,
+        "college_code": "NCOP",
+        "college_name": "NALANDA COLLEGE OF PHARMACY, NALGONDA"
+    },
+    {
+        "id": 486,
+        "college_code": "SREE",
+        "college_name": "SREE COLLEGE OF PHARMACY, KOTHAGUDEM"
+    },
+    {
+        "id": 487,
+        "college_code": "CBCP",
+        "college_name": "CHILKUR BALAJI COLLEGE OF PHARMACY, CHILKUR"
+    },
+    {
+        "id": 488,
+        "college_code": "VKSP",
+        "college_name": "VIKAS COLL OF PHARMACEUTICAL SCIENCES, SURYAPET"
+    },
+    {
+        "id": 489,
+        "college_code": "TKRP",
+        "college_name": "TEEGALA KRISHNA REDDY COLLEGE OF PHARMACY, MIRPET"
+    }
+]
